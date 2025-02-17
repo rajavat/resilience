@@ -1,0 +1,39 @@
+---
+title: "R Notebook"
+output: pdf_document
+---
+
+```{r}
+## imports
+library(tidyverse)
+```
+
+
+```{r}
+# load in data
+ri.fia <- read.csv("fia_ri.csv")
+tt.fia <- read.csv("rhode_island_tree_traits.csv") 
+
+# remove dead trees
+filter(ri.fia, !alive == 0)
+```
+
+```{r}
+# - calculate abundance metrics
+
+ri.fia %>% 
+  # basal area 
+  mutate(basal_area = pi * (DIA / 2)^2 * TPA_UNADJ) %>%
+  filter(!is.na(basal_area) & !basal_area == 0) %>%
+
+  # weighted carbon aggregation
+  mutate(weighted_carbon = CARBON_AG * TPA_UNADJ) %>%
+  filter(!is.na(weighted_carbon) & !weighted_carbon == 0) %>%
+
+  # biomass per acre
+  filter(!is.na(BPA) & !BPA == 0)
+
+```
+
+
+
