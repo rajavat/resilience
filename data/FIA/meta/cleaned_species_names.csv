@@ -1,0 +1,2673 @@
+SPCD,species,accepted_bin
+10,Abies,NA
+11,Abies amabilis,Abies amabilis
+12,Abies balsamea,Abies balsamea
+14,Abies bracteata,Abies bracteata
+15,Abies concolor,Abies concolor
+16,Abies fraseri,Abies fraseri
+17,Abies grandis,Abies grandis
+18,Abies lasiocarpa,Abies lasiocarpa
+19,Abies lasiocarpa,Abies lasiocarpa
+20,Abies magnifica,Abies magnifica
+21,Abies shastensis,Abies magnifica
+22,Abies procera,Abies procera
+40,Chamaecyparis,NA
+41,Chamaecyparis lawsoniana,Chamaecyparis lawsoniana
+42,Chamaecyparis nootkatensis,Cupressus nootkatensis
+43,Chamaecyparis thyoides,Chamaecyparis thyoides
+50,Cupressus,NA
+51,Cupressus arizonica,Cupressus arizonica
+52,Cupressus bakeri,Cupressus bakeri
+53,Cupressus forbesii,NA
+54,Cupressus macrocarpa,Cupressus macrocarpa
+55,Cupressus sargentii,Cupressus sargentii
+56,Cupressus macnabiana,Cupressus macnabiana
+57,Juniperus,NA
+58,Juniperus pinchotii,Juniperus pinchotii
+59,Juniperus coahuilensis,Juniperus coahuilensis
+60,Juniperus flaccida,Juniperus flaccida
+61,Juniperus ashei,Juniperus ashei
+62,Juniperus californica,Juniperus californica
+63,Juniperus deppeana,Juniperus deppeana
+64,Juniperus occidentalis,Juniperus occidentalis
+65,Juniperus osteosperma,Juniperus osteosperma
+66,Juniperus scopulorum,Juniperus scopulorum
+67,Juniperus virginiana,Juniperus virginiana
+68,Juniperus virginiana,Juniperus virginiana
+69,Juniperus monosperma,Juniperus monosperma
+70,Larix,NA
+71,Larix laricina,Larix laricina
+72,Larix lyallii,Larix lyallii
+73,Larix occidentalis,Larix occidentalis
+74,Larix kaempferi,Larix kaempferi
+75,Larix sibirica,Larix sibirica
+81,Calocedrus decurrens,Calocedrus decurrens
+90,Picea,NA
+91,Picea abies,Picea abies
+92,Picea breweriana,Picea breweriana
+93,Picea engelmannii,Picea engelmannii
+94,Picea glauca,Picea glauca
+95,Picea mariana,Picea mariana
+96,Picea pungens,Picea pungens
+97,Picea rubens,Picea rubens
+98,Picea sitchensis,Picea sitchensis
+100,Pinus,NA
+101,Pinus albicaulis,Pinus albicaulis
+102,Pinus aristata,Pinus aristata
+103,Pinus attenuata,Pinus attenuata
+104,Pinus balfouriana,Pinus balfouriana
+105,Pinus banksiana,Pinus banksiana
+106,Pinus edulis,Pinus edulis
+107,Pinus clausa,Pinus clausa
+108,Pinus contorta,Pinus contorta
+109,Pinus coulteri,Pinus coulteri
+110,Pinus echinata,Pinus echinata
+111,Pinus elliottii,Pinus elliottii
+112,Pinus engelmannii,Pinus engelmannii
+113,Pinus flexilis,Pinus flexilis
+114,Pinus strobiformis,Pinus strobiformis
+115,Pinus glabra,Pinus glabra
+116,Pinus jeffreyi,Pinus jeffreyi
+117,Pinus lambertiana,Pinus lambertiana
+118,Pinus leiophylla,Pinus leiophylla
+119,Pinus monticola,Pinus monticola
+120,Pinus muricata,Pinus muricata
+121,Pinus palustris,Pinus palustris
+122,Pinus ponderosa,Pinus ponderosa
+123,Pinus pungens,Pinus pungens
+124,Pinus radiata,Pinus radiata
+125,Pinus resinosa,Pinus resinosa
+126,Pinus rigida,Pinus rigida
+127,Pinus sabiniana,Pinus sabiniana
+128,Pinus serotina,Pinus serotina
+129,Pinus strobus,Pinus strobus
+130,Pinus sylvestris,Pinus sylvestris
+131,Pinus taeda,Pinus taeda
+132,Pinus virginiana,Pinus virginiana
+133,Pinus monophylla,Pinus monophylla
+134,Pinus discolor,Pinus cembroides
+135,Pinus arizonica,Pinus arizonica
+136,Pinus nigra,Pinus nigra
+137,Pinus washoensis,Pinus ponderosa
+138,Pinus quadrifolia,Pinus quadrifolia
+139,Pinus torreyana,Pinus torreyana
+140,Pinus cembroides,Pinus cembroides
+141,Pinus remota,Pinus remota
+142,Pinus longaeva,Pinus longaeva
+143,Pinus monophylla,Pinus monophylla
+144,Pinus elliottii,Pinus elliottii
+200,Pseudotsuga,NA
+201,Pseudotsuga macrocarpa,Pseudotsuga macrocarpa
+202,Pseudotsuga menziesii,Pseudotsuga menziesii
+211,Sequoia sempervirens,Sequoia sempervirens
+212,Sequoiadendron giganteum,Sequoiadendron giganteum
+220,Taxodium,NA
+221,Taxodium distichum,Taxodium distichum
+222,Taxodium ascendens,Taxodium distichum
+223,Taxodium mucronatum,Taxodium distichum
+230,Taxus,NA
+231,Taxus brevifolia,Taxus brevifolia
+232,Taxus floridana,Taxus floridana
+240,Thuja,NA
+241,Thuja occidentalis,Thuja occidentalis
+242,Thuja plicata,Thuja plicata
+250,Torreya,NA
+251,Torreya californica,Torreya californica
+252,Torreya taxifolia,Torreya taxifolia
+260,Tsuga,NA
+261,Tsuga canadensis,Tsuga canadensis
+262,Tsuga caroliniana,Tsuga caroliniana
+263,Tsuga heterophylla,Tsuga heterophylla
+264,Tsuga mertensiana,Tsuga mertensiana
+299,dead,NA
+300,Acacia,NA
+303,Acacia farnesiana,Acacia farnesiana
+304,Acacia greggii,Acacia greggii
+310,Acer,NA
+311,Acer barbatum,Acer saccharum
+312,Acer macrophyllum,Acer macrophyllum
+313,Acer negundo,Acer negundo
+314,Acer nigrum,Acer saccharum
+315,Acer pensylvanicum,Acer pensylvanicum
+316,Acer rubrum,Acer rubrum
+317,Acer saccharinum,Acer saccharinum
+318,Acer saccharum,Acer saccharum
+319,Acer spicatum,Acer spicatum
+320,Acer platanoides,Acer platanoides
+321,Acer glabrum,Acer glabrum
+322,Acer grandidentatum,Acer saccharum
+323,Acer leucoderme,Acer saccharum
+330,Aesculus,NA
+331,Aesculus glabra,Aesculus glabra
+332,Aesculus flava,Aesculus flava
+333,Aesculus californica,Aesculus californica
+334,Aesculus glabra,Aesculus glabra
+336,Aesculus pavia,Aesculus pavia
+337,Aesculus sylvatica,Aesculus sylvatica
+341,Ailanthus altissima,Ailanthus altissima
+345,Albizia julibrissin,Albizia julibrissin
+350,Alnus,NA
+351,Alnus rubra,Alnus rubra
+352,Alnus rhombifolia,Alnus rhombifolia
+353,Alnus oblongifolia,Alnus oblongifolia
+355,Alnus glutinosa,Alnus glutinosa
+356,Amelanchier,NA
+357,Amelanchier arborea,Amelanchier arborea
+358,Amelanchier sanguinea,Amelanchier sanguinea
+360,Arbutus,NA
+361,Arbutus menziesii,Arbutus menziesii
+362,Arbutus arizonica,Arbutus arizonica
+363,Arbutus xalapensis,Arbutus xalapensis
+367,Asimina triloba,Asimina triloba
+370,Betula,NA
+371,Betula alleghaniensis,Betula alleghaniensis
+372,Betula lenta,Betula lenta
+373,Betula nigra,Betula nigra
+374,Betula occidentalis,Betula occidentalis
+375,Betula papyrifera,Betula papyrifera
+376,Betula neoalaskana,Betula pendula
+377,Betula uber,Betula lenta
+378,Betula utahensis,NA
+379,Betula populifolia,Betula populifolia
+381,Sideroxylon lanuginosum,Sideroxylon lanuginosum
+391,Carpinus caroliniana,Carpinus caroliniana
+400,Carya,NA
+401,Carya aquatica,Carya aquatica
+402,Carya cordiformis,Carya cordiformis
+403,Carya glabra,Carya glabra
+404,Carya illinoinensis,Carya illinoinensis
+405,Carya laciniosa,Carya laciniosa
+406,Carya myristiciformis,Carya myristiciformis
+407,Carya ovata,Carya ovata
+408,Carya texana,Carya texana
+409,Carya alba,Carya alba
+410,Carya pallida,Carya pallida
+411,Carya floridana,Carya floridana
+412,Carya ovalis,Carya glabra
+413,Carya carolinae-septentrionalis,Carya ovata
+420,Castanea,NA
+421,Castanea dentata,Castanea dentata
+422,Castanea pumila,Castanea pumila
+423,Castanea pumila,Castanea pumila
+424,Castanea mollissima,Castanea mollissima
+431,Chrysolepis chrysophylla,Chrysolepis chrysophylla
+450,Catalpa,NA
+451,Catalpa bignonioides,Catalpa bignonioides
+452,Catalpa speciosa,Catalpa speciosa
+460,Celtis,NA
+461,Celtis laevigata,Celtis laevigata
+462,Celtis occidentalis,Celtis occidentalis
+463,Celtis laevigata,Celtis laevigata
+471,Cercis canadensis,Cercis canadensis
+475,Cercocarpus ledifolius,Cercocarpus ledifolius
+481,Cladrastis kentukea,Cladrastis kentukea
+490,Cornus,NA
+491,Cornus florida,Cornus florida
+492,Cornus nuttallii,Cornus nuttallii
+500,Crataegus,NA
+501,Crataegus crus-galli,Crataegus crus-galli
+502,Crataegus mollis,Crataegus mollis
+503,Crataegus brainerdii,Crataegus brainerdii
+504,Crataegus calpodendron,Crataegus calpodendron
+505,Crataegus chrysocarpa,Crataegus chrysocarpa
+506,Crataegus dilatata,Crataegus dilatata
+507,Crataegus flabellata,Crataegus flabellata
+508,Crataegus monogyna,Crataegus monogyna
+509,Crataegus pedicellata,Crataegus coccinea
+510,Eucalyptus,NA
+511,Eucalyptus globulus,Eucalyptus globulus
+512,Eucalyptus camaldulensis,Eucalyptus camaldulensis
+513,Eucalyptus grandis,Eucalyptus grandis
+514,Eucalyptus robusta,Eucalyptus robusta
+520,Diospyros,NA
+521,Diospyros virginiana,Diospyros virginiana
+522,Diospyros texana,Diospyros texana
+523,Ehretia anacua,Ehretia anacua
+531,Fagus grandifolia,Fagus grandifolia
+540,Fraxinus,NA
+541,Fraxinus americana,Fraxinus americana
+542,Fraxinus latifolia,Fraxinus latifolia
+543,Fraxinus nigra,Fraxinus nigra
+544,Fraxinus pennsylvanica,Fraxinus pennsylvanica
+545,Fraxinus profunda,Fraxinus profunda
+546,Fraxinus quadrangulata,Fraxinus quadrangulata
+547,Fraxinus velutina,Fraxinus velutina
+548,Fraxinus caroliniana,Fraxinus caroliniana
+549,Fraxinus texensis,Fraxinus americana
+550,Gleditsia,NA
+551,Gleditsia aquatica,Gleditsia aquatica
+552,Gleditsia triacanthos,Gleditsia triacanthos
+555,Gordonia lasianthus,Gordonia lasianthus
+561,Ginkgo biloba,Ginkgo biloba
+571,Gymnocladus dioicus,Gymnocladus dioica
+580,Halesia,NA
+581,Halesia carolina,Halesia carolina
+582,Halesia diptera,Halesia diptera
+583,Halesia parviflora,Halesia carolina
+591,Ilex opaca,Ilex opaca
+600,Juglans,NA
+601,Juglans cinerea,Juglans cinerea
+602,Juglans nigra,Juglans nigra
+603,Juglans hindsii,Juglans hindsii
+604,Juglans californica,Juglans californica
+605,Juglans microcarpa,Juglans microcarpa
+606,Juglans major,Juglans major
+611,Liquidambar styraciflua,Liquidambar styraciflua
+621,Liriodendron tulipifera,Liriodendron tulipifera
+631,Lithocarpus densiflorus,Notholithocarpus densiflorus
+641,Maclura pomifera,Maclura pomifera
+650,Magnolia,NA
+651,Magnolia acuminata,Magnolia acuminata
+652,Magnolia grandiflora,Magnolia grandiflora
+653,Magnolia virginiana,Magnolia virginiana
+654,Magnolia macrophylla,Magnolia macrophylla
+655,Magnolia fraseri,Magnolia fraseri
+657,Magnolia pyramidata,Magnolia fraseri
+658,Magnolia tripetala,Magnolia tripetala
+660,Malus,NA
+661,Malus fusca,Malus fusca
+662,Malus angustifolia,Malus angustifolia
+663,Malus coronaria,Malus coronaria
+664,Malus ioensis,Malus ioensis
+680,Morus,NA
+681,Morus alba,Morus alba
+682,Morus rubra,Morus rubra
+683,Morus microphylla,Morus celtidifolia
+684,Morus nigra,Morus nigra
+690,Nyssa,NA
+691,Nyssa aquatica,Nyssa aquatica
+692,Nyssa ogeche,Nyssa ogeche
+693,Nyssa sylvatica,Nyssa sylvatica
+694,Nyssa biflora,Nyssa sylvatica
+701,Ostrya virginiana,Ostrya virginiana
+711,Oxydendrum arboreum,Oxydendrum arboreum
+712,Paulownia tomentosa,Paulownia tomentosa
+715,Maytenus palauica,Gymnosporia thompsonii
+718,Osmoxylon truncatum,Osmoxylon truncatum
+720,Persea,NA
+721,Persea borbonia,Persea borbonia
+722,Planera aquatica,Planera aquatica
+729,Platanus,NA
+730,Platanus racemosa,Platanus racemosa
+731,Platanus occidentalis,Platanus occidentalis
+732,Platanus wrightii,Platanus wrightii
+740,Populus,NA
+741,Populus balsamifera,Populus balsamifera
+742,Populus deltoides,Populus deltoides
+743,Populus grandidentata,Populus grandidentata
+744,Populus heterophylla,Populus heterophylla
+745,Populus deltoides,Populus deltoides
+746,Populus tremuloides,Populus tremuloides
+747,Populus balsamifera,Populus balsamifera
+748,Populus fremontii,Populus fremontii
+749,Populus angustifolia,Populus angustifolia
+752,Populus alba,Populus alba
+753,Populus nigra,Populus nigra
+755,Prosopis,NA
+756,Prosopis glandulosa,Prosopis glandulosa
+757,Prosopis velutina,Prosopis velutina
+758,Prosopis pubescens,Prosopis pubescens
+760,Prunus,NA
+761,Prunus pensylvanica,Prunus pensylvanica
+762,Prunus serotina,Prunus serotina
+763,Prunus virginiana,Prunus virginiana
+764,Prunus persica,Prunus persica
+765,Prunus nigra,Prunus nigra
+766,Prunus americana,Prunus americana
+768,Prunus emarginata,Prunus emarginata
+769,Prunus alleghaniensis,Prunus alleghaniensis
+770,Prunus angustifolia,Prunus angustifolia
+771,Prunus avium,Prunus avium
+772,Prunus cerasus,Prunus cerasus
+773,Prunus domestica,Prunus domestica
+774,Prunus mahaleb,Prunus mahaleb
+800,Quercus,NA
+801,Quercus agrifolia,Quercus agrifolia
+802,Quercus alba,Quercus alba
+803,Quercus arizonica,Quercus arizonica
+804,Quercus bicolor,Quercus bicolor
+805,Quercus chrysolepis,Quercus chrysolepis
+806,Quercus coccinea,Quercus coccinea
+807,Quercus douglasii,Quercus douglasii
+808,Quercus sinuata,Quercus sinuata
+809,Quercus ellipsoidalis,Quercus ellipsoidalis
+810,Quercus emoryi,Quercus emoryi
+811,Quercus engelmannii,Quercus engelmannii
+812,Quercus falcata,Quercus falcata
+813,Quercus pagoda,Quercus pagoda
+814,Quercus gambelii,Quercus gambelii
+815,Quercus garryana,Quercus garryana
+816,Quercus ilicifolia,Quercus ilicifolia
+817,Quercus imbricaria,Quercus imbricaria
+818,Quercus kelloggii,Quercus kelloggii
+819,Quercus laevis,Quercus laevis
+820,Quercus laurifolia,Quercus laurifolia
+821,Quercus lobata,Quercus lobata
+822,Quercus lyrata,Quercus lyrata
+823,Quercus macrocarpa,Quercus macrocarpa
+824,Quercus marilandica,Quercus marilandica
+825,Quercus michauxii,Quercus michauxii
+826,Quercus muehlenbergii,Quercus muehlenbergii
+827,Quercus nigra,Quercus nigra
+828,Quercus texana,Quercus texana
+829,Quercus oblongifolia,Quercus oblongifolia
+830,Quercus palustris,Quercus palustris
+831,Quercus phellos,Quercus phellos
+832,Quercus prinus,Quercus michauxii
+833,Quercus rubra,Quercus rubra
+834,Quercus shumardii,Quercus shumardii
+835,Quercus stellata,Quercus stellata
+836,Quercus similis,Quercus similis
+837,Quercus velutina,Quercus velutina
+838,Quercus virginiana,Quercus virginiana
+839,Quercus wislizeni,Quercus wislizeni
+840,Quercus margarettiae,Quercus margarettae
+841,Quercus minima,Quercus minima
+842,Quercus incana,Quercus incana
+843,Quercus hypoleucoides,Quercus hypoleucoides
+844,Quercus oglethorpensis,Quercus oglethorpensis
+845,Quercus prinoides,Quercus prinoides
+846,Quercus grisea,Quercus grisea
+847,Quercus rugosa,Quercus rugosa
+851,Quercus graciliformis,Quercus canbyi
+852,Amyris elemifera,Amyris elemifera
+853,Annona glabra,Annona glabra
+854,Bursera simaruba,Bursera simaruba
+855,Casuarina,NA
+856,Casuarina glauca,Casuarina glauca
+857,Casuarina lepidophloia,Casuarina cristata
+858,Cinnamomum camphora,Cinnamomum camphora
+859,Citharexylum fruticosum,Citharexylum spinosum
+860,Citrus,NA
+863,Coccoloba diversifolia,Coccoloba diversifolia
+864,Colubrina elliptica,Colubrina elliptica
+865,Cordia sebestena,Cordia sebestena
+866,Cupaniopsis anacardioides,Cupaniopsis anacardioides
+867,Condalia hookeri,Condalia hookeri
+868,Ebenopsis ebano,Ebenopsis ebano
+869,Leucaena pulverulenta,Leucaena pulverulenta
+870,Sophora affinis,Sophora affinis
+873,Eugenia rhombea,Eugenia rhombea
+874,Exothea paniculata,Exothea paniculata
+876,Ficus aurea,Ficus aurea
+877,Ficus citrifolia,Ficus citrifolia
+882,Guapira discolor,Guapira discolor
+883,Hippomane mancinella,Hippomane mancinella
+884,Lysiloma latisiliquum,Lysiloma latisiliquum
+885,Mangifera indica,Mangifera indica
+886,Metopium toxiferum,Metopium toxiferum
+887,Piscidia piscipula,Piscidia piscipula
+888,Schefflera actinophylla,Schefflera actinophylla
+890,Sideroxylon foetidissimum,Sideroxylon foetidissimum
+891,Sideroxylon salicifolium,Sideroxylon salicifolium
+895,Simarouba glauca,Simarouba amara
+896,Syzygium cumini,Syzygium cumini
+897,Tamarindus indica,Tamarindus indica
+901,Robinia pseudoacacia,Robinia pseudoacacia
+902,Robinia neomexicana,Robinia neomexicana
+906,Acoelorraphe wrightii,Acoelorrhaphe wrightii
+907,Coccothrinax argentata,Coccothrinax argentata
+908,Cocos nucifera,Cocos nucifera
+909,Roystonea,NA
+911,Sabal mexicana,Sabal mexicana
+912,Sabal palmetto,Sabal palmetto
+913,Thrinax morrisii,Leucothrinax morrisii
+914,Thrinax radiata,Thrinax radiata
+915,other_palm,NA
+919,Sapindus saponaria,Sapindus saponaria
+920,Salix,NA
+921,Salix amygdaloides,Salix amygdaloides
+922,Salix nigra,Salix nigra
+923,Salix bebbiana,Salix bebbiana
+924,Salix bonplandiana,Salix bonplandiana
+925,Salix caroliniana,Salix caroliniana
+926,Salix pyrifolia,Salix pyrifolia
+927,Salix alba,Salix alba
+928,Salix scouleriana,Salix scouleriana
+929,Salix sepulcralis,NA
+931,Sassafras albidum,Sassafras albidum
+934,Sorbus,NA
+935,Sorbus americana,Sorbus americana
+936,Sorbus aucuparia,Sorbus aucuparia
+937,Sorbus decora,Sorbus decora
+940,Swietenia mahagoni,Swietenia mahagoni
+950,Tilia,NA
+951,Tilia americana,Tilia americana
+952,Tilia americana,Tilia americana
+953,Tilia americana,Tilia americana
+970,Ulmus,NA
+971,Ulmus alata,Ulmus alata
+972,Ulmus americana,Ulmus americana
+973,Ulmus crassifolia,Ulmus crassifolia
+974,Ulmus pumila,Ulmus pumila
+975,Ulmus rubra,Ulmus rubra
+976,Ulmus serotina,Ulmus serotina
+977,Ulmus thomasii,Ulmus thomasii
+981,Umbellularia californica,Umbellularia californica
+982,Yucca brevifolia,Yucca brevifolia
+986,Avicennia germinans,Avicennia germinans
+987,Conocarpus erectus,Conocarpus erectus
+988,Laguncularia racemosa,Laguncularia racemosa
+989,Rhizophora mangle,Rhizophora mangle
+990,Olneya tesota,Olneya tesota
+991,Tamarix,NA
+992,Melaleuca quinquenervia,Melaleuca quinquenervia
+993,Melia azedarach,Melia azedarach
+994,Triadica sebifera,Triadica sebifera
+995,Vernicia fordii,Vernicia fordii
+996,Cotinus obovatus,Cotinus obovatus
+997,Elaeagnus angustifolia,Elaeagnus angustifolia
+998,dead,NA
+999,other_live,NA
+5091,Crataegus phaenopyrum,Crataegus phaenopyrum
+5092,Crataegus succulenta,Crataegus succulenta
+5093,Crataegus uniflora,Crataegus uniflora
+5145,Acer campestre,Acer campestre
+5146,Acer circinatum,Acer circinatum
+5147,Acer ginnala,NA
+5148,Acer griseum,Acer griseum
+5149,Acer mono,Acer pictum
+5150,Acer palmatum,Acer palmatum
+5151,Acer pseudoplatanus,Acer pseudoplatanus
+5152,Acer tataricum,Acer tataricum
+5154,Acer freemanii,NA
+5155,Acer miyabei,Acer miyabei
+5156,Acer triflorum,Acer triflorum
+5157,Acer platanoides,Acer platanoides
+5163,Aesculus hippocastanum,Aesculus hippocastanum
+5164,Aesculus parviflora,Aesculus parviflora
+5188,Alnus incana,Alnus incana
+5189,Alnus cordata,Alnus cordata
+5190,Alnus serrulata,Alnus serrulata
+5192,Alnus viridis,Alnus alnobetula
+5203,Amelanchier laevis,Amelanchier laevis
+5232,Aralia elata,Aralia elata
+5233,Aralia spinosa,Aralia spinosa
+5256,Asimina parviflora,Asimina parviflora
+5259,Baccharis glomeruliflora,NA
+5260,Baccharis halimifolia,Baccharis halimifolia
+5261,Bactris gasipaes,Bactris gasipaes
+5279,Betula pendula,Betula pendula
+5280,Betula platyphylla,Betula pendula
+5281,Betula pubescens,Betula pubescens
+5322,Buddleja alternifolia,Buddleja alternifolia
+5328,Butia capitata,Butia capitata
+5329,Buxus sempervirens,Buxus sempervirens
+5363,Camellia japonica,Camellia japonica
+5364,Camellia sinensis,Camellia sinensis
+5375,Caragana arborescens,Caragana arborescens
+5378,Carpinus betulus,Carpinus betulus
+5401,Castanea crenata,Castanea crenata
+5402,Castanea sativa,Castanea sativa
+5411,Catalpa ovata,Catalpa ovata
+5415,Ceanothus velutinus,Ceanothus velutinus
+5420,Cedrus atlantica,Cedrus atlantica
+5421,Cedrus libani,Cedrus libani
+5423,Cedrus deodara,Cedrus deodara
+5432,Cephalanthus occidentalis,Cephalanthus occidentalis
+5435,Cercidiphyllum japonicum,Cercidiphyllum japonicum
+5436,Cercis orbiculata,Cercis canadensis
+5443,Chamaecyparis obtusa,Chamaecyparis obtusa
+5444,Chamaecyparis pisifera,Chamaecyparis pisifera
+5462,Chilopsis linearis,Chilopsis linearis
+5491,Fraxinus berlandieriana,Fraxinus berlandieriana
+5492,Fraxinus excelsior,Fraxinus excelsior
+5493,Fraxinus oxycarpa,Fraxinus angustifolia
+5523,Clerodendrum bungei,Clerodendrum bungei
+5529,Clethra acuminata,Clethra acuminata
+5559,Colutea arborescens,NA
+5591,Cornus kousa,Cornus kousa
+5599,Corylus americana,Corylus americana
+5600,Corylus colurna,Corylus colurna
+5603,Cotinus coggygria,Cotinus coggygria
+5776,Cudrania tricuspidata,Maclura tricuspidata
+5800,Cupressocyparis leylandii,NA
+5818,Cydonia oblonga,Cydonia oblonga
+5965,Euonymus alatus,NA
+5983,Fagus sylvatica,Fagus sylvatica
+6001,Acacia anegadensis,Acacia anegadensis
+6002,Acacia aneura,Acacia aneura
+6003,Acacia auriculiformis,Acacia auriculiformis
+6004,Acacia confusa,Acacia confusa
+6006,Acacia koa,Acacia koa
+6007,Acacia koaia,Acacia koaia
+6008,Acacia macracantha,Vachellia macracantha
+6009,Acacia mangium,Acacia mangium
+6010,Acacia mearnsii,Acacia mearnsii
+6011,Acacia melanoxylon,Acacia melanoxylon
+6012,Acacia muricata,Acacia muricata
+6013,Acacia nilotica,Vachellia nilotica
+6014,Acacia parramattensis,Acacia parramattensis
+6015,Acacia polyacantha,Senegalia polyacantha
+6016,Acacia dealbata,Acacia dealbata
+6017,Acacia decurrens,Acacia decurrens
+6018,Acacia tortuosa,Vachellia tortuosa
+6019,Acacia longifolia,Acacia longifolia
+6020,Acacia verticillata,Acacia verticillata
+6021,Acnistus arborescens,Acnistus arborescens
+6023,Acrocomia media,Acrocomia media
+6025,Adansonia digitata,Adansonia digitata
+6026,Adelia ricinella,Adelia ricinella
+6028,Adenanthera pavonina,Adenanthera pavonina
+6029,Adenanthera,NA
+6032,Aegiphila martinicensis,Aegiphila martinicensis
+6034,Afrocarpus falcatus,Afrocarpus falcatus
+6035,Afrocarpus gracilior,Afrocarpus gracilior
+6036,Agathis australis,Agathis australis
+6037,Agathis robusta,Agathis robusta
+6042,Aglaia mariannensis,Aglaia mariannensis
+6043,Aglaia palauensis,Aglaia mariannensis
+6044,Aglaia ponapensis,Aglaia mariannensis
+6046,Aglaia samoensis,Aglaia samoensis
+6047,Aglaia,NA
+6048,Aidia cochinchinensis,Aidia cochinchinensis
+6049,Aidia racemosa,Aidia racemosa
+6051,Ailanthus,NA
+6053,Aiphanes minima,Aiphanes minima
+6055,Albizia adinocephala,Albizia adinocephala
+6056,Albizia carbonaria,Albizia carbonaria
+6057,Albizia chinensis,Albizia chinensis
+6058,Albizia falcataria,Falcataria falcata
+6059,Albizia lebbeck,Albizia lebbeck
+6060,Albizia procera,Albizia procera
+6061,Albizia retusa,Albizia retusa
+6062,Albizia saponaria,Albizia saponaria
+6063,Albizia,NA
+6064,Alchornea latifolia,Alchornea latifolia
+6066,Alchorneopsis floribunda,Alchorneopsis floribunda
+6069,Alectryon macrococcus,Alectryon macrococcum
+6073,Alectryon,NA
+6075,Aleurites moluccana,Aleurites moluccanus
+6077,Aleurites,NA
+6078,Aleurites trisperma,Reutealis trisperma
+6080,Allophylus crassinervis,Allophylus crassinervis
+6082,Allophylus racemosus,Allophylus racemosus
+6083,Allophylus,NA
+6084,Allophylus ternatus,Allophylus triphyllus
+6085,Allophylus timorensis,Allophylus timorensis
+6086,Alnus nepalensis,Alnus nepalensis
+6088,Alphitonia carolinensis,Alphitonia carolinensis
+6089,Alphitonia ponderosa,Alphitonia ponderosa
+6090,Alphitonia,NA
+6091,Alphitonia zizyphoides,Alphitonia zizyphoides
+6092,Alsophila bryophila,NA
+6093,Alsophila portoricensis,NA
+6095,Alstonia macrophylla,Alstonia macrophylla
+6096,Alstonia pacifica,Tabernaemontana pandacaqui
+6097,Alstonia,NA
+6101,Amphitecna latifolia,Amphitecna latifolia
+6103,Amyris balsamifera,Amyris balsamifera
+6106,Anacardium,NA
+6107,Anacardium occidentale,Anacardium occidentale
+6108,Anacolosa glochidiiformis,Anacolosa glochidiiformis
+6109,Anacolosa insularis,Anacolosa insularis
+6111,Anadenanthera peregrina,Anadenanthera peregrina
+6114,Andira inermis,Andira inermis
+6118,Angiopteris evecta,NA
+6120,Aniba bracteata,Aniba bracteata
+6124,Annona cherimola,Annona cherimola
+6125,Annona diversifolia,Annona macroprophyllata
+6127,Annona montana,Annona montana
+6128,Annona muricata,Annona muricata
+6129,Annona reticulata,Annona reticulata
+6130,Annona,NA
+6131,Annona squamosa,Annona squamosa
+6135,Antidesma kapuae,NA
+6137,Antidesma bunius,Antidesma bunius
+6138,Antidesma kusaiense,Antidesma excavatum
+6139,Antidesma platyphyllum,Antidesma platyphyllum
+6142,Antidesma ponapense,Antidesma excavatum
+6143,Antidesma pulvinatum,Antidesma pulvinatum
+6144,Antidesma sphaerocarpum,Antidesma excavatum
+6145,Antidesma,NA
+6146,Antirhea acutata,Stenostomum acutatum
+6147,Antirhea coriacea,Stenostomum coriaceum
+6148,Antirhea inconspicua,Antirhea inconspicua
+6149,Antirhea lucida,Stenostomum lucidum
+6150,Antirhea obtusifolia,Stenostomum obtusifolium
+6151,Antirhea portoricensis,Stenostomum portoricense
+6152,Antirhea sintenisii,Stenostomum sintenisii
+6154,Araucaria angustifolia,Araucaria angustifolia
+6155,Araucaria columnaris,Araucaria columnaris
+6156,Araucaria excelsa,NA
+6157,Araucaria heterophylla,Araucaria heterophylla
+6158,Araucaria,NA
+6159,Archontophoenix alexandrae,Archontophoenix alexandrae
+6160,Archontophoenix cunninghamiana,Archontophoenix cunninghamiana
+6161,Ardisia elliptica,Ardisia elliptica
+6162,Ardisia glauciflora,Ardisia glauciflora
+6163,Ardisia luquillensis,Ardisia luquillensis
+6164,Ardisia obovata,Ardisia obovata
+6165,Ardisia solanacea,Ardisia solanacea
+6166,Ardisia,NA
+6167,Areca catechu,Areca catechu
+6169,Arenga pinnata,Arenga pinnata
+6171,Artocarpus altilis,Artocarpus altilis
+6173,Artocarpus heterophyllus,Artocarpus heterophyllus
+6175,Artocarpus mariannensis,Artocarpus mariannensis
+6176,Artocarpus nobilis,Artocarpus nobilis
+6177,Artocarpus odoratissimus,Artocarpus odoratissimus
+6178,Artocarpus,NA
+6179,Arytera brackenridgei,Arytera brackenridgei
+6180,Arbutus unedo,Arbutus unedo
+6181,Ascarina diffusa,Ascarina diffusa
+6184,Astronidium kusaianum,Astronidium carolinense
+6185,Astronidium navigatorum,NA
+6186,Astronidium palauense,Astronidium palauense
+6187,Astronidium pickeringii,Astronidium victoriae
+6188,Astronidium samoense,NA
+6189,Astronidium,NA
+6190,Astronidium subcordata,NA
+6193,Atuna racemosa,Atuna racemosa
+6197,Averrhoa bilimbi,Averrhoa bilimbi
+6198,Averrhoa carambola,Averrhoa carambola
+6199,Averrhoa,NA
+6200,Avicennia alba,Avicennia marina
+6203,Avicennia marina,Avicennia marina
+6205,Avicennia,NA
+6206,Azadirachta indica,Azadirachta indica
+6208,Baccaurea taitensis,Baccaurea taitensis
+6212,Larix decidua,Larix decidua
+6213,Badusa palauensis,Badusa palauensis
+6215,Bambusa,NA
+6216,Bambusa vulgaris,NA
+6217,Banara portoricensis,Banara portoricensis
+6219,Banara vanderbiltii,Banara vanderbiltii
+6220,Barringtonia asiatica,Barringtonia asiatica
+6221,Barringtonia racemosa,Barringtonia racemosa
+6222,Barringtonia samoensis,Barringtonia samoensis
+6223,Barringtonia,NA
+6224,Bastardiopsis eggersii,Bastardiopsis eggersii
+6225,Bauhinia binata,Bauhinia tomentosa
+6226,Bauhinia monandra,Bauhinia monandra
+6227,Bauhinia multinervia,Bauhinia multinervia
+6228,Bauhinia pauletia,Bauhinia pauletia
+6229,Bauhinia purpurea,Bauhinia purpurea
+6230,Bauhinia,NA
+6231,Bauhinia tomentosa,Bauhinia tomentosa
+6232,Bauhinia variegata,Bauhinia variegata
+6233,Beilschmiedia pendula,Beilschmiedia pendula
+6234,Lindera subcoriacea,Lindera subcoriacea
+6235,Bernardia dichotoma,Bernardia dichotoma
+6236,Bischofia javanica,Bischofia javanica
+6237,Bischofia,NA
+6238,Bixa orellana,Bixa orellana
+6239,Bixa,NA
+6240,Blighia sapida,Blighia sapida
+6241,Bauhinia lunarioides,Bauhinia lunarioides
+6242,Bobea brevipes,Bobea brevipes
+6243,Bobea elatior,Bobea gaudichaudii
+6244,Bobea sandwicensis,Bobea sandwicensis
+6245,Bobea,NA
+6246,Bobea timonioides,Bobea timonioides
+6247,Bocconia frutescens,Bocconia frutescens
+6248,Bocconia,NA
+6250,Boehmeria virgata,Boehmeria virgata
+6251,Bontia daphnoides,Bontia daphnoides
+6252,Bauhinia blakeana,NA
+6253,Bourreria radula,Bourreria radula
+6255,Bourreria succulenta,Bourreria venosa
+6257,Bourreria virgata,Bourreria virgata
+6258,Brachychiton discolor,Brachychiton discolor
+6259,Brachychiton populneum,Brachychiton populneus
+6260,Broussaisia arguta,Broussaisia arguta
+6262,Broussonetia papyrifera,Broussonetia papyrifera
+6264,Brugmansia candida,NA
+6266,Bruguiera gymnorhiza,Bruguiera gymnorhiza
+6267,Bruguiera parviflora,Bruguiera parviflora
+6268,Bruguiera sexangula,Bruguiera sexangula
+6269,Bruguiera,NA
+6270,Brunellia comocladiifolia,Brunellia comocladifolia
+6272,Brunfelsia americana,Brunfelsia americana
+6273,Brunfelsia densifolia,Brunfelsia densifolia
+6274,Brunfelsia lactea,Brunfelsia lactea
+6275,Brunfelsia portoricensis,Brunfelsia portoricensis
+6277,Buchanania engleriana,Buchanania engleriana
+6278,Buchanania merrillii,Buchanania merrillii
+6279,Buchanania palawensis,Buchanania palawensis
+6280,Buchanania,NA
+6283,Buchenavia tetraphylla,Buchenavia tetraphylla
+6284,Bucida buceras,Bucida buceras
+6286,Buddleja asiatica,Buddleja asiatica
+6294,Bunchosia glandulifera,Bunchosia glandulifera
+6295,Bunchosia glandulosa,Bunchosia glandulosa
+6297,Bunchosia polystachia,Bunchosia polystachia
+6299,Burckella richii,Burckella richii
+6303,Buxus laevigata,NA
+6304,Buxus portoricensis,Buxus portoricensis
+6306,Buxus vahlii,Buxus vahlii
+6308,Byrsonima crassifolia,Byrsonima crassifolia
+6311,Byrsonima lucida,Byrsonima lucida
+6313,Byrsonima spicata,Byrsonima spicata
+6315,Byrsonima wadsworthii,Byrsonima wadsworthii
+6316,Caesalpinia,NA
+6317,Caesalpinia coriaria,Caesalpinia coriaria
+6318,Caesalpinia kavaiensis,NA
+6319,Caesalpinia pulcherrima,Caesalpinia pulcherrima
+6320,Caesalpinia sappan,Caesalpinia sappan
+6325,Calliandra surinamensis,Calliandra surinamensis
+6326,Callicarpa ampla,Callicarpa ampla
+6328,Callistemon citrinus,Callistemon citrinus
+6329,Callistemon viminalis,Callistemon viminalis
+6331,Callitris columellaris,Callitris columellaris
+6337,Caloncoba echinata,Caloncoba echinata
+6338,Calophyllum antillanum,Calophyllum brasiliense
+6341,Calophyllum inophyllum,Calophyllum inophyllum
+6342,Calophyllum neo-ebudicum,Calophyllum neoebudicum
+6343,Calophyllum pelewense,Calophyllum pelewense
+6344,Calophyllum soulattri,Calophyllum soulattri
+6345,Calophyllum,NA
+6346,Calotropis procera,Calotropis procera
+6347,Calotropis,NA
+6350,Calycophyllum candidissimum,Calycophyllum candidissimum
+6351,Calyptranthes kiaerskovii,Calyptranthes kiaerskovii
+6352,Calyptranthes krugii,Calyptranthes krugii
+6353,Calyptranthes luquillensis,Calyptranthes luquillensis
+6354,Calyptranthes pallens,Calyptranthes pallens
+6355,Calyptranthes portoricensis,Myrcia portoricensis
+6356,Calyptranthes sintenisii,Calyptranthes sintenisii
+6358,Calyptranthes thomasiana,Calyptranthes thomasiana
+6359,Calyptranthes zuzygium,Calyptranthes zuzygium
+6360,Calyptronoma rivalis,Calyptronoma rivalis
+6366,Campnosperma brevipetiolatum,Campnosperma brevipetiolatum
+6367,Campnosperma brevipetiolata,Campnosperma brevipetiolatum
+6370,Cananga odorata,Cananga odorata
+6372,Canarium mafoa,Canarium harveyi
+6373,Canarium hirsutum,Canarium hirsutum
+6374,Canarium indicum,Canarium indicum
+6375,Canarium ovatum,Canarium ovatum
+6377,Canarium,NA
+6378,Canarium vitiense,Canarium vitiense
+6379,Canarium vulgare,Canarium vulgare
+6380,Canella winteriana,Canella winterana
+6381,Psydrax merrillii,NA
+6383,Capparis amplissima,Capparis amplissima
+6384,Capparis baducca,Capparis baducca
+6386,Capparis cynophallophora,NA
+6387,Capparis flexuosa,NA
+6389,Capparis hastata,NA
+6390,Capparis indica,Capparis indica
+6393,Carapa guianensis,Carapa guianensis
+6395,Carica papaya,Carica papaya
+6396,Carica,NA
+6397,Carmona retusa,NA
+6398,Carmona,NA
+6399,Caryota mitis,Caryota mitis
+6400,Caryota,NA
+6401,Caryota urens,Caryota urens
+6402,Casearia aculeata,Casearia aculeata
+6403,Casearia arborea,Casearia arborea
+6405,Casearia cauliflora,Casearia cauliflora
+6406,Casearia decandra,Casearia decandra
+6407,Casearia guianensis,Casearia guianensis
+6408,Casearia,NA
+6410,Casearia sylvestris,Casearia sylvestris
+6415,Cassia fistula,Cassia fistula
+6417,Cassia grandis,Cassia grandis
+6418,Cassia javanica,Cassia javanica
+6419,Cassia leptophylla,Cassia leptophylla
+6420,Cassia siamea,Senna siamea
+6422,Cassia,NA
+6425,Cassine xylocarpa,Cassine xylocarpa
+6427,Cassipourea guianensis,Cassipourea guianensis
+6429,Castela erecta,Castela erecta
+6430,Castilla elastica,Castilla elastica
+6433,Casuarina cunninghamiana,Casuarina cunninghamiana
+6434,Casuarina equisetifolia,Casuarina equisetifolia
+6437,Casuarina litorea,Casuarina equisetifolia
+6438,Ilex mucronata,Ilex mucronata
+6439,Catalpa longissima,Catalpa longissima
+6441,Cecropia obtusifolia,Cecropia obtusifolia
+6443,Cecropia schreberiana,Cecropia schreberiana
+6444,Cecropia,NA
+6445,Cedrela odorata,Cedrela odorata
+6447,Ceiba acuminata,Ceiba acuminata
+6448,Ceiba aesculifolia,Ceiba aesculifolia
+6449,Ceiba pentandra,Ceiba pentandra
+6452,Celtis paniculata,Celtis paniculata
+6454,Celtis trinervia,Celtis trinervia
+6457,Ceratonia siliqua,Ceratonia siliqua
+6458,Celtis sinensis,Celtis sinensis
+6459,Cerbera dilatata,Cerbera inflata
+6460,Cerbera floribunda,Cerbera floribunda
+6461,Cerbera manghas,Cerbera manghas
+6462,Cerbera odollam,Cerbera odollam
+6463,Cerbera,NA
+6468,Cereus hexagonus,Cereus hexagonus
+6469,Cereus hildmannianus,Cereus hildmannianus
+6470,Cereus,NA
+6472,Ceriops tagal,Ceriops tagal
+6473,Cestrum aurantiacum,Cestrum aurantiacum
+6474,Cestrum diurnum,Cestrum diurnum
+6475,Cestrum laurifolium,Cestrum diurnum
+6477,Cestrum nocturnum,Cestrum nocturnum
+6478,Cestrum,NA
+6479,Ostrya knowltonii,Ostrya knowltonii
+6480,Chamaerops humilis,Chamaerops humilis
+6481,Chamaesyce articulata,Euphorbia articulata
+6482,Chamaesyce atrococca,Euphorbia atrococca
+6483,Chamaesyce celastroides,Euphorbia celastroides
+6492,Chamaesyce herbstii,Euphorbia herbstii
+6493,Chamaesyce kuwaleana,Euphorbia kuwaleana
+6494,Chamaesyce olowaluana,Euphorbia olowaluana
+6495,Chamaesyce rockii,Euphorbia rockii
+6496,Chamaesyce,NA
+6497,Charpentiera densiflora,Charpentiera densiflora
+6498,Charpentiera elliptica,Charpentiera elliptica
+6499,Charpentiera obovata,Charpentiera obovata
+6500,Charpentiera ovata,Charpentiera ovata
+6503,Charpentiera,NA
+6504,Charpentiera tomentosa,Charpentiera tomentosa
+6507,Cheirodendron dominii,Cheirodendron dominii
+6508,Cheirodendron fauriei,Cheirodendron fauriei
+6509,Cheirodendron forbesii,Cheirodendron forbesii
+6510,Cheirodendron platyphyllum,Cheirodendron platyphyllum
+6511,Persea palustris,Persea palustris
+6513,Cheirodendron,NA
+6514,Cheirodendron trigynum,Cheirodendron trigynum
+6516,Phellodendron amurense,Phellodendron amurense
+6517,Chenopodium oahuense,Chenopodium oahuense
+6518,Chenopodium,NA
+6519,Chionanthus axilliflorus,Chionanthus axilliflorus
+6520,Chionanthus compactus,Chionanthus compactus
+6521,Chionanthus domingensis,Chionanthus ligustrinus
+6522,Chionanthus holdridgei,Chionanthus holdridgii
+6523,Chionanthus ligustrinus,Chionanthus ligustrinus
+6524,Chionanthus retusus,Chionanthus retusus
+6525,Chionanthus vitiensis,Chionanthus vitiensis
+6526,Chione seminervis,Wandersong seminervis
+6528,Chione venosa,Chione venosa
+6529,Chlorophora excelsa,Milicia excelsa
+6532,Chorisia speciosa,Ceiba speciosa
+6533,Picea glehnii,Picea glehnii
+6535,Chrysobalanus icaco,Chrysobalanus icaco
+6538,Picea omorika,Picea omorika
+6539,Chrysophyllum argenteum,Chrysophyllum argenteum
+6541,Chrysophyllum cainito,Chrysophyllum cainito
+6542,Chrysophyllum oliviforme,Chrysophyllum oliviforme
+6543,Chrysophyllum pauciflorum,Chrysophyllum pauciflorum
+6545,Cibotium heleniae,NA
+6546,Cibotium chamissoi,NA
+6547,Cibotium glaucum,NA
+6548,Cibotium menziesii,NA
+6549,Cibotium,NA
+6552,Cinchona pubescens,Cinchona pubescens
+6553,Cinchona,NA
+6554,Cinnamomum aromaticum,NA
+6555,Cinnamomum burmannii,Cinnamomum burmanni
+6557,Cinnamomum carolinense,Cinnamomum pedatinervium
+6559,Cinnamomum elongatum,Phoebe montana
+6560,Cinnamomum montanum,Phoebe montana
+6561,Cinnamomum pedatinervium,Cinnamomum pedatinervium
+6562,Cinnamomum sessilifolium,Cinnamomum sessilifolium
+6563,Cinnamomum,NA
+6564,Cinnamomum verum,Cinnamomum verum
+6565,Citharexylum caudatum,Citharexylum caudatum
+6567,Citharexylum spinosum,Citharexylum spinosum
+6568,Citharexylum,NA
+6569,Citharexylum tristachyum,NA
+6570,Citronella samoensis,Citronella samoensis
+6572,Citrus aurantifolia,NA
+6573,Citrus xaurantiifolia,NA
+6574,Citrus xaurantium,NA
+6575,Citrus xlimon,NA
+6576,Citrus xparadisi,NA
+6577,Citrus xsinensis,NA
+6578,Citrus grandis,Citrus maxima
+6579,Citrus hystrix,Citrus hystrix
+6580,Citrus macroptera,Citrus hystrix
+6581,Citrus maxima,Citrus maxima
+6582,Citrus medica,Citrus medica
+6583,Citrus mitis,NA
+6584,Citrus reticulata,NA
+6586,Claoxylon carolinianum,Claoxylon carolinianum
+6588,Claoxylon fallax,Claoxylon fallax
+6589,Claoxylon longiracemosum,Claoxylon longiracemosum
+6590,Claoxylon marianum,Claoxylon marianum
+6591,Claoxylon sandwicense,Claoxylon sandwicense
+6592,Claoxylon,NA
+6593,Cleistanthus carolinianus,Cleistanthus carolinianus
+6594,Cleistanthus insularis,Cleistanthus insularis
+6595,Cleistanthus,NA
+6596,Clermontia leptoclada,NA
+6597,Clermontia arborescens,Clermontia arborescens
+6601,Clermontia clermontioides,Clermontia clermontioides
+6604,Clermontia drepanomorpha,Clermontia drepanomorpha
+6605,Clermontia fauriei,Clermontia fauriei
+6606,Clermontia grandiflora,Clermontia grandiflora
+6610,Clermontia hawaiiensis,Clermontia hawaiiensis
+6611,Clermontia kakeana,Clermontia kakeana
+6612,Clermontia kohalae,Clermontia kohalae
+6613,Clermontia lindseyana,Clermontia lindseyana
+6614,Clermontia micrantha,Clermontia micrantha
+6615,Clermontia montis-loa,Clermontia montis-loa
+6616,Clermontia oblongifolia,Clermontia oblongifolia
+6620,Clermontia pallida,Clermontia pallida
+6621,Clermontia parviflora,Clermontia parviflora
+6622,Clermontia peleana,Clermontia peleana
+6625,Clermontia persicifolia,Clermontia persicifolia
+6626,Clermontia pyrularia,Clermontia pyrularia
+6627,Clermontia singuliflora,Clermontia peleana
+6628,Clermontia,NA
+6629,Clermontia tuberculata,Clermontia tuberculata
+6630,Clermontia waimeae,Clermontia waimeae
+6631,Clerodendrum aculeatum,Volkameria aculeata
+6632,Clerodendrum chinense,Clerodendrum chinense
+6633,Clerodendrum glabrum,Volkameria glabra
+6634,Clerodendrum indicum,Clerodendrum indicum
+6635,Clerodendrum macrostegium,Clerodendrum macrostegium
+6636,Clerodendrum,NA
+6637,Cleyera albopunctata,Cleyera albopunctata
+6639,Clibadium erosum,Clibadium erosum
+6641,Clidemia cymosa,Clidemia umbellata
+6642,Clidemia hirta,NA
+6644,Clitoria fairchildiana,Clitoria fairchildiana
+6645,Clinostigma carolinense,Clinostigma carolinense
+6646,Clusia clusioides,Clusia clusioides
+6648,Clusia gundlachii,Clusia gundlachii
+6650,Clusia minor,Clusia minor
+6651,Clusia rosea,Clusia rosea
+6652,Clusia,NA
+6653,Cnemidaria horrida,NA
+6655,Cnidoscolus aconitifolius,Cnidoscolus aconitifolius
+6658,Coccoloba costata,Coccoloba costata
+6660,Coccoloba krugii,Coccoloba krugii
+6661,Coccoloba microstachya,Coccoloba microstachya
+6662,Coccoloba pallida,Coccoloba pallida
+6663,Coccoloba pubescens,Coccoloba pubescens
+6664,Coccoloba pyrifolia,Coccoloba pyrifolia
+6665,Coccoloba rugosa,Coccoloba rugosa
+6666,Coccoloba sintenisii,Coccoloba sintenisii
+6668,Coccoloba swartzii,Coccoloba swartzii
+6669,Coccoloba tenuifolia,Coccoloba tenuifolia
+6670,Coccoloba uvifera,Coccoloba uvifera
+6671,Coccoloba venosa,Coccoloba venosa
+6673,Coccothrinax barbadensis,Coccothrinax barbadensis
+6679,Cochlospermum vitifolium,Cochlospermum vitifolium
+6681,Cocos,NA
+6683,Codiaeum variegatum,Codiaeum variegatum
+6684,Coffea arabica,Coffea arabica
+6685,Coffea robusta,Coffea canephora
+6686,Coffea liberica,Coffea liberica
+6687,Coffea,NA
+6688,Cojoba arborea,Cojoba arborea
+6689,Cola acuminata,Cola acuminata
+6691,Colona scabra,NA
+6693,Colubrina arborescens,Colubrina arborescens
+6694,Colubrina asiatica,Colubrina asiatica
+6696,Prunus laurocerasus,Prunus laurocerasus
+6697,Colubrina oppositifolia,Colubrina oppositifolia
+6699,Colubrina,NA
+6700,Colubrina verrucosa,Colubrina verrucosa
+6702,Combretum tetralophum,NA
+6703,Commersonia bartramia,Commersonia bartramia
+6705,Comocladia dodonaea,Comocladia dodonaea
+6706,Comocladia glabra,Comocladia glabra
+6707,Prunus serrulata,Prunus serrulata
+6708,Prunus mexicana,Prunus mexicana
+6709,Conocarpus,NA
+6710,Conostegia rufescens,Conostegia rufescens
+6711,Consolea moniliformis,Consolea moniliformis
+6712,Consolea rubescens,Consolea rubescens
+6714,Copaifera officinalis,Copaifera officinalis
+6716,Coprosma foliosa,Coprosma foliosa
+6717,Coprosma kauensis,Coprosma kauensis
+6718,Coprosma longifolia,Coprosma longifolia
+6719,Coprosma montana,Coprosma montana
+6720,Coprosma ochracea,Coprosma ochracea
+6721,Coprosma pubens,Coprosma pubens
+6722,Coprosma rhynchocarpa,Coprosma rhynchocarpa
+6724,Coprosma,NA
+6726,Coprosma waimeae,Coprosma waimeae
+6728,Cordia alliodora,Cordia alliodora
+6729,Cordia aspera,Cordia aspera
+6730,Cordia borinquensis,Cordia borinquensis
+6731,Cordia collococca,Cordia collococca
+6733,Cordia dichotoma,Cordia dichotoma
+6735,Cordia laevigata,Cordia laevigata
+6736,Cordia micronesica,Cordia micronesica
+6737,Cordia obliqua,Cordia dichotoma
+6738,Cordia rickseckeri,Cordia rickseckeri
+6739,Cordia rupicola,NA
+6741,Cordia,NA
+6742,Cordia subcordata,Cordia subcordata
+6743,Cordia sulcata,Cordia sulcata
+6744,Cordyline fruticosa,Cordyline fruticosa
+6745,Cordyline,NA
+6746,Cornutia obovata,Cornutia obovata
+6747,Cornutia pyramidata,Cornutia pyramidata
+6748,Cornus drummondii,Cornus drummondii
+6749,Corymbia calophylla,Corymbia calophylla
+6750,Corymbia citriodora,Corymbia citriodora
+6751,Corymbia ficifolia,Corymbia ficifolia
+6752,Corymbia gummifera,Corymbia gummifera
+6754,Corynocarpus laevigatus,Corynocarpus laevigatus
+6755,Corynocarpus,NA
+6756,Couroupita guianensis,Couroupita guianensis
+6758,Crateva religiosa,Crateva religiosa
+6759,Purshia stansburiana,Purshia stansburiana
+6760,Crescentia alata,Crescentia alata
+6761,Crescentia cujete,Crescentia cujete
+6762,Crescentia linearifolia,Crescentia linearifolia
+6763,Crescentia portoricensis,Crescentia portoricensis
+6765,Critonia portoricensis,Critonia portoricensis
+6767,Crossopetalum rhacoma,Crossopetalum rhacoma
+6768,Quercus arkansana,Quercus arkansana
+6769,Crossostylis biflora,Crossostylis biflora
+6771,Crotalaria longirostrata,Crotalaria longirostrata
+6772,Croton,NA
+6773,Croton astroites,Croton astroites
+6774,Croton flavens,Croton flavens
+6775,Croton poecilanthus,Croton poecilanthus
+6778,Cryptocarya oreophila,Beilschmiedia oreophila
+6779,Cryptocarya elegans,Cryptocarya elegans
+6781,Cryptocarya mannii,Cryptocarya mannii
+6782,Quercus georgiana,Quercus georgiana
+6783,Cryptocarya,NA
+6784,Cryptocarya turbinata,Cryptocarya turbinata
+6785,Quercus havardii,Quercus havardii
+6786,Cryptomeria japonica,Cryptomeria japonica
+6787,Cryptomeria,NA
+6788,Cunninghamia lanceolata,Cunninghamia lanceolata
+6790,Cupania americana,Cupania americana
+6791,Quercus myrtifolia,Quercus myrtifolia
+6792,Cupania triquetra,Cupania triquetra
+6794,Quercus petraea,Quercus petraea
+6795,Cupressus lusitanica,Cupressus lusitanica
+6796,Cupressus sempervirens,Cupressus sempervirens
+6797,Quercus robur,Quercus robur
+6799,Quercus sinuata,Quercus sinuata
+6800,Cyanea aculeatiflora,Cyanea aculeatiflora
+6801,Cyanea arborea,Cyanea arborea
+6802,Cyanea fissa,Cyanea fissa
+6805,Cyanea floribunda,Cyanea floribunda
+6806,Cyanea giffardii,Cyanea giffardii
+6807,Cyanea hamatiflora,Cyanea hamatiflora
+6810,Cyanea hardyi,Cyanea hardyi
+6811,Cyanea horrida,Cyanea horrida
+6812,Cyanea kuhihewa,Cyanea kuhihewa
+6813,Cyanea kunthiana,Cyanea kunthiana
+6814,Cyanea leptostegia,Cyanea leptostegia
+6815,Cyanea macrostegia,Cyanea macrostegia
+6818,Cyanea marksii,Cyanea marksii
+6819,Cyanea pilosa,Cyanea pilosa
+6822,Cyanea pohaku,Cyanea pohaku
+6823,Cyanea procera,Cyanea procera
+6824,Cyanea pycnocarpa,Cyanea pycnocarpa
+6825,Cyanea quercifolia,Cyanea quercifolia
+6826,Cyanea rivularis,Cyanea rivularis
+6827,Cyanea solenocalyx,Cyanea solenocalyx
+6828,Cyanea,NA
+6829,Cyanea stictophylla,Cyanea stictophylla
+6830,Cyanea superba,Cyanea superba
+6833,Cyanea tritomantha,Cyanea tritomantha
+6834,Cyathea andina,NA
+6835,Cyathea arborea,NA
+6837,Cyathea cooperi,NA
+6838,Cyathea decurrens,NA
+6839,Cyathea furfuracea,NA
+6840,Cyathea lunulata,NA
+6841,Cyathea medullaris,NA
+6842,Cyathea nigricans,NA
+6843,Cyathea parvula,NA
+6844,Cyathea ponapeana,NA
+6847,Cyathea,NA
+6848,Cyathea tenera,NA
+6849,Cyathea truncata,NA
+6850,Cybianthus sintenisii,Cybianthus sintenisii
+6852,Cycas circinalis,NA
+6853,Cycas revoluta,NA
+6854,Cycas,NA
+6855,Cyclophyllum barbatum,Cyclophyllum barbatum
+6857,Cynometra portoricensis,Cynometra portoricensis
+6858,Cynometra ramiflora,Cynometra ramiflora
+6859,Cynometra yokotae,NA
+6860,Cyphomandra betacea,Solanum betaceum
+6862,Cyrilla racemiflora,Cyrilla racemiflora
+6863,Cyrtandra pulchella,NA
+6864,Cyrtandra ramosissima,NA
+6865,Cyrtandra giffardii,Cyrtandra giffardii
+6866,Cyrtandra,NA
+6867,Dacryodes excelsa,Dacryodes excelsa
+6868,Dalbergia retusa,Dalbergia retusa
+6869,Dalbergia sissoo,Dalbergia sissoo
+6870,Dalbergia tucurensis,Dalbergia tucurensis
+6871,Daphnopsis americana,Daphnopsis americana
+6872,Daphnopsis helleriana,Daphnopsis helleriana
+6873,Daphnopsis philippiana,Daphnopsis philippiana
+6875,Delissea fallax,Delissea fallax
+6876,Delissea laciniata,Delissea laciniata
+6877,Delissea niihauensis,Delissea niihauensis
+6880,Delissea parviflora,Delissea parviflora
+6881,Delissea,NA
+6882,Delissea undulata,Delissea undulata
+6883,Delonix regia,Delonix regia
+6884,Delonix,NA
+6885,Dendrocnide harveyi,Dendrocnide harveyi
+6886,Dendrocnide latifolia,Dendrocnide latifolia
+6887,Dendrocnide,NA
+6888,Dendropanax arboreus,Dendropanax arboreus
+6889,Dendropanax laurifolius,Dendropanax laurifolius
+6891,Dictyosperma album,Dictyosperma album
+6896,Dillenia indica,Dillenia indica
+6898,Dillenia suffruticosa,Dillenia suffruticosa
+6899,Dimocarpus longan,Dimocarpus longan
+6900,Diospyros blancoi,Diospyros discolor
+6902,Diospyros discolor,Diospyros discolor
+6903,Diospyros ebenaster,NA
+6904,Diospyros elliptica,Diospyros foliosa
+6905,Diospyros ferrea,Diospyros vera
+6906,Diospyros hillebrandii,Diospyros hillebrandii
+6907,Diospyros kaki,Diospyros kaki
+6909,Diospyros revoluta,Diospyros nigra
+6910,Diospyros samoensis,Diospyros samoensis
+6911,Diospyros sandwicensis,Diospyros sandwicensis
+6912,Diospyros sintenisii,Diospyros sintenisii
+6918,Rhamnus cathartica,Rhamnus cathartica
+6921,Discocalyx ponapensis,Discocalyx ponapensis
+6923,Ditta myricoides,Ditta myricoides
+6924,Rhus typhina,Rhus typhina
+6927,Dodonaea viscosa,Dodonaea viscosa
+6928,Dolichandrone spathacea,Dolichandrone spathacea
+6930,Dovyalis hebecarpa,Dovyalis hebecarpa
+6932,Dracaena fragrans,Dracaena fragrans
+6933,Dracaena multiflora,Dracaena multiflora
+6934,Dracaena reflexa,Dracaena reflexa
+6935,Drypetes carolinensis,Drypetes carolinensis
+6936,Drypetes dolichocarpa,Drypetes dolichocarpa
+6937,Drypetes alba,Drypetes alba
+6938,Drypetes glauca,Drypetes glauca
+6939,Drypetes ilicifolia,Drypetes ilicifolia
+6940,Drypetes lateriflora,Drypetes lateriflora
+6941,Drypetes nitida,Drypetes nitida
+6942,Drypetes,NA
+6943,Drypetes vitiensis,Drypetes vitiensis
+6944,Dubautia demissifolia,NA
+6945,Dubautia fallax,NA
+6946,Dubautia montana,Dubautia reticulata
+6947,Dubautia arborea,Dubautia arborea
+6948,Dubautia knudsenii,Dubautia knudsenii
+6949,Drypetes yapensis,Drypetes yapensis
+6952,Dubautia microcephala,Dubautia microcephala
+6953,Dubautia plantaginea,Dubautia plantaginea
+6954,Salix elaeagnos,Salix eleagnos
+6955,Salix fragilis,NA
+6957,Dubautia reticulata,Dubautia reticulata
+6958,Dubautia,NA
+6959,Salix geyeriana,Salix geyeriana
+6961,Duranta erecta,Duranta erecta
+6963,Salix laevigata,Salix laevigata
+6965,Durio zibethinus,Durio zibethinus
+6966,Dypsis lutescens,Dypsis lutescens
+6967,Salix matsudana,Salix babylonica
+6968,Dysoxylum huntii,Dysoxylum huntii
+6969,Dysoxylum maota,Dysoxylum gaudichaudianum
+6970,Dysoxylum samoense,Dysoxylum mollissimum
+6971,Dysoxylum,NA
+6972,Dysoxylum mollissimum,Dysoxylum mollissimum
+6973,Elaeis guineensis,Elaeis guineensis
+6974,Elaeocarpus kusaiensis,Elaeocarpus kusaiensis
+6975,Elaeocarpus bifidus,Elaeocarpus bifidus
+6976,Elaeocarpus carolinensis,Elaeocarpus carolinensis
+6977,Elaeocarpus floridanus,Elaeocarpus floridanus
+6978,Elaeocarpus graeffei,Elaeocarpus graeffei
+6979,Elaeocarpus grandis,NA
+6980,Elaeocarpus joga,Elaeocarpus joga
+6981,Elaeocarpus kerstingianus,Elaeocarpus kerstingianus
+6982,Elaeocarpus kusanoi,Elaeocarpus kusanoi
+6983,Elaeocarpus,NA
+6984,Elaeocarpus tonganus,Elaeocarpus tonganus
+6985,Elaeocarpus ulianus,Elaeocarpus ulianus
+6990,Elattostachys falcata,Elattostachys falcata
+6991,Sambucus racemosa,Sambucus racemosa
+6992,Eleocharis dulcis,NA
+6994,Endiandra elaeocarpa,Endiandra elaeocarpa
+6996,Enterolobium cyclocarpum,Enterolobium cyclocarpum
+6997,Eriobotrya deflexa,Eriobotrya deflexa
+6998,Eriobotrya japonica,Eriobotrya japonica
+6999,Eriobotrya,NA
+7000,Erithalis fruticosa,Erithalis fruticosa
+7003,Erythrina coralloides,Erythrina coralloides
+7004,Erythrina berteriana,Erythrina berteroana
+7005,Erythrina corallodendron,Erythrina corallodendron
+7006,Erythrina crista-galli,Erythrina crista-galli
+7007,Erythrina eggersii,Erythrina eggersii
+7008,Erythrina fusca,Erythrina fusca
+7011,Erythrina poeppigiana,Erythrina poeppigiana
+7012,Erythrina sandwicensis,Erythrina sandwicensis
+7013,Erythrina,NA
+7014,Erythrina subumbrans,Erythrina subumbrans
+7015,Erythrina variegata,Erythrina variegata
+7016,Erythrina variegata,Erythrina variegata
+7017,Erythrospermum acuminatissimum,Erythrospermum acuminatissimum
+7019,Erythroxylum areolatum,Erythroxylum areolatum
+7021,Erythroxylum rotundifolium,Erythroxylum rotundifolium
+7022,Erythroxylum rufum,Erythroxylum rufum
+7023,Senna corymbosa,Senna corymbosa
+7024,Erythroxylum urbanii,Erythroxylum urbanii
+7025,Eucalyptus botryoides,Eucalyptus botryoides
+7026,Eucalyptus bridgesiana,Eucalyptus bridgesiana
+7028,Eucalyptus cinerea,Eucalyptus cinerea
+7030,Eucalyptus cladocalyx,Eucalyptus cladocalyx
+7031,Eucalyptus cornuta,Eucalyptus cornuta
+7032,Eucalyptus crebra,Eucalyptus crebra
+7033,Eucalyptus deanei,Eucalyptus deanei
+7034,Eucalyptus deglupta,Eucalyptus deglupta
+7035,Eucalyptus cordata,Eucalyptus cordata
+7036,Eucalyptus leucoxylon,Eucalyptus leucoxylon
+7038,Eucalyptus gomphocephala,Eucalyptus gomphocephala
+7039,Eucalyptus goniocalyx,Eucalyptus goniocalyx
+7040,Eucalyptus polyanthemos,Eucalyptus polyanthemos
+7041,Eucalyptus hemiphloia,Eucalyptus moluccana
+7043,Eucalyptus maculata,Corymbia maculata
+7044,Eucalyptus marginata,Eucalyptus marginata
+7045,Eucalyptus microcorys,Eucalyptus microcorys
+7046,Eucalyptus paniculata,Eucalyptus paniculata
+7047,Eucalyptus pilularis,Eucalyptus pilularis
+7048,Eucalyptus raveretiana,Eucalyptus raveretiana
+7049,Eucalyptus resinifera,Eucalyptus resinifera
+7051,Eucalyptus rudis,Eucalyptus rudis
+7052,Eucalyptus salicifolia,Eucalyptus amygdalina
+7053,Eucalyptus saligna,Eucalyptus saligna
+7054,Eucalyptus sideroxylon,Eucalyptus sideroxylon
+7056,Eucalyptus tereticornis,Eucalyptus tereticornis
+7057,Eucalyptus viminalis,Eucalyptus viminalis
+7059,Eugenia aquea,Syzygium aqueum
+7060,Eugenia axillaris,Eugenia axillaris
+7061,Eugenia biflora,Eugenia biflora
+7062,Eugenia boqueronensis,Eugenia boqueronensis
+7063,Eugenia borinquensis,NA
+7065,Eugenia caryophyllus,Syzygium aromaticum
+7066,Eugenia confusa,Eugenia confusa
+7067,Eugenia cordata,Eugenia cordata
+7068,Eugenia cordata,Eugenia cordata
+7069,Eugenia corozalensis,Psidium amplexicaule
+7071,Eugenia domingensis,Eugenia domingensis
+7072,Eugenia eggersii,Eugenia eggersii
+7075,Eugenia glabrata,Eugenia glabrata
+7076,Eugenia haematocarpa,Eugenia haematocarpa
+7078,Eugenia javanica,Syzygium aqueum
+7079,Eugenia koolauensis,Eugenia koolauensis
+7081,Eugenia ligustrina,Eugenia ligustrina
+7082,Eugenia malaccensis,Syzygium malaccense
+7083,Styrax grandifolius,Styrax grandifolius
+7084,Eugenia monticola,Eugenia monticola
+7086,Eugenia nitida,Eugenia selloi
+7087,Eugenia palauensis,Syzygium palauense
+7088,Eugenia palumbis,Eugenia palumbis
+7089,Eugenia procera,Eugenia procera
+7090,Eugenia pseudopsidium,Eugenia pseudopsidium
+7091,Eugenia reinwardtiana,Eugenia reinwardtiana
+7092,Syringa reticulata,Syringa reticulata
+7093,Eugenia serrasuela,Eugenia serrasuela
+7094,Eugenia sessiliflora,Eugenia sessiliflora
+7096,Eugenia,NA
+7098,Eugenia stahlii,Eugenia stahlii
+7099,Syzygium stelechanthum,Syzygium stelechanthum
+7100,Eugenia stewardsonii,Eugenia stewardsonii
+7101,Eugenia suzukii,Syzygium samarangense
+7102,Eugenia thompsonii,Syzygium thompsonii
+7103,Eugenia underwoodii,Eugenia underwoodii
+7104,Eugenia uniflora,Eugenia uniflora
+7105,Eugenia xerophytica,Mosiera xerophytica
+7109,Euphorbia cotinifolia,Euphorbia cotinifolia
+7110,Euphorbia haeleeleana,Euphorbia haeleeleana
+7111,Euphorbia lactea,Euphorbia lactea
+7112,Euphorbia neriifolia,Euphorbia neriifolia
+7113,Euphorbia petiolaris,Euphorbia petiolaris
+7114,Euphorbia pulcherrima,Euphorbia pulcherrima
+7115,Euphorbia,NA
+7116,Euphorbia tirucalli,Euphorbia tirucalli
+7117,Euphoria longana,Dimocarpus longan
+7119,Eurya sandwicensis,Eurya sandwichensis
+7120,Eurya,NA
+7123,Euodia hortensis,Euodia hortensis
+7124,Euodia nitida,Melicope denhamii
+7125,Euodia palawensis,NA
+7126,Euodia ponapensis,Melicope denhamii
+7127,Euodia,NA
+7128,Euodia trichantha,Melicope trichantha
+7129,Excoecaria agallocha,Excoecaria agallocha
+7131,Exocarpos gaudichaudii,Exocarpos gaudichaudii
+7132,Exocarpos,NA
+7133,Exorrhiza ponapensis,Clinostigma ponapense
+7135,Exostema caribaeum,Exostema caribaeum
+7136,Exostema ellipticum,Exostema ellipticum
+7137,Exostema sanctae-luciae,Exostema sanctae-luciae
+7141,Fagraea berteroana,Fagraea berteroana
+7142,Fagraea ksid,Fagraea berteroana
+7143,Fagraea,NA
+7144,Falcataria moluccana,Falcataria falcata
+7145,Falcataria,NA
+7146,Faramea occidentalis,Faramea occidentalis
+7147,Feijoa sellowiana,Acca sellowiana
+7148,Ficus americana,Ficus americana
+7149,Ficus benghalensis,Ficus benghalensis
+7150,Ficus benjamina,Ficus benjamina
+7151,Ficus carica,Ficus carica
+7152,Ficus copiosa,Ficus copiosa
+7153,Ficus auriculata,Ficus auriculata
+7154,Ficus drupacea,Ficus drupacea
+7155,Ficus elastica,Ficus elastica
+7156,Ficus godeffroyi,Ficus godeffroyi
+7158,Ficus lutea,Ficus lutea
+7159,Ficus lyrata,Ficus lyrata
+7160,Ficus microcarpa,Ficus microcarpa
+7162,Ficus nota,Ficus nota
+7163,Ficus obliqua,Ficus obliqua
+7164,Ficus obtusifolia,Ficus obtusifolia
+7165,Ficus prolixa,Ficus prolixa
+7166,Ficus religiosa,Ficus religiosa
+7167,Ficus rubiginosa,Ficus rubiginosa
+7168,Ficus saffordii,NA
+7169,Ficus scabra,Ficus scabra
+7171,Ficus,NA
+7173,Ficus stahlii,Ficus crassinervia
+7174,Ficus sycomorus,Ficus sycomorus
+7175,Ficus thonningii,Ficus thonningii
+7176,Ficus tinctoria,Ficus tinctoria
+7177,Ficus trigonata,Ficus trigonata
+7178,Ficus uniauriculata,Ficus uniauriculata
+7179,Ficus virens,Ficus virens
+7180,Finschia chloroxantha,Finschia chloroxantha
+7181,Firmiana simplex,Firmiana simplex
+7182,Fitchia speciosa,Fitchia speciosa
+7184,Flacourtia indica,Flacourtia indica
+7185,Flacourtia inermis,Flacourtia inermis
+7186,Flacourtia rukam,Flacourtia rukam
+7188,Flindersia brayleyana,Flindersia brayleyana
+7190,Flueggea acidoton,Flueggea acidoton
+7191,Flueggea flexuosa,Flueggea flexuosa
+7192,Flueggea neowawraea,Flueggea neowawraea
+7193,Flueggea,NA
+7194,Forestiera eggersiana,Forestiera eggersiana
+7195,Forestiera rhamnifolia,Forestiera rhamnifolia
+7196,Forestiera segregata,Forestiera segregata
+7198,Fortunella margarita,Citrus japonica
+7199,Vitex negundo,Vitex negundo
+7200,Frangula californica,Frangula californica
+7202,Frangula sphaerosperma,Frangula sphaerosperma
+7203,Franklinia alatamaha,Franklinia alatamaha
+7206,Fraxinus uhdei,Fraxinus uhdei
+7207,Fuchsia boliviana,Fuchsia boliviana
+7208,Fuchsia paniculata,Fuchsia paniculata
+7209,Fuchsia,NA
+7210,Funtumia elastica,Funtumia elastica
+7211,Persea americana,Persea americana
+7212,Garcinia dulcis,Garcinia dulcis
+7213,Garcinia hessii,Garcinia hessii
+7214,Garcinia mangostana,Garcinia malaccensis
+7215,Garcinia matsudai,Garcinia matsudae
+7216,Garcinia myrtifolia,Garcinia myrtifolia
+7217,Garcinia ponapensis,Garcinia ponapensis
+7218,Garcinia portoricensis,Garcinia portoricensis
+7219,Garcinia rumiyo,Garcinia rumiyo
+7220,Garcinia quadrilocularis,NA
+7221,Garcinia,NA
+7223,Garcinia xanthochymus,Garcinia xanthochymus
+7224,Gardenia brighamii,Gardenia brighamii
+7225,Gardenia mannii,Gardenia mannii
+7226,Gardenia remyi,Gardenia remyi
+7227,Gardenia,NA
+7228,Gardenia taitensis,Gardenia taitensis
+7229,Garuga floribunda,Garuga floribunda
+7231,Gaussia attenuata,Gaussia attenuata
+7233,Geniostoma rupestre,Geniostoma rupestre
+7235,Genipa americana,Genipa americana
+7237,Gesneria pedunculosa,Gesneria pedunculosa
+7239,Ginoria rohrii,Ginoria rohrii
+7241,Gironniera celtidifolia,Gironniera celtidifolia
+7243,Zelkova serrata,Zelkova serrata
+7245,Gliricidia sepium,Gliricidia sepium
+7246,Ziziphus obtusifolia,Sarcomphalus obtusifolius
+7247,Glochidion cuspidatum,Glochidion cuspidatum
+7248,Glochidion marianum,Phyllanthus mariannensis
+7249,Glochidion ramiflorum,Glochidion ramiflorum
+7250,Glochidion,NA
+7251,Gmelina elliptica,Gmelina elliptica
+7252,Gmelina palawensis,Gmelina palawensis
+7253,Gmelina,NA
+7254,Gnetum gnemon,Gnetum gnemon
+7255,Glycosmis parviflora,Glycosmis parviflora
+7256,Goetzea elegans,Goetzea elegans
+7257,Glochidion kanehirae,NA
+7258,Gomidesia lindeniana,Myrcia fenzliana
+7260,Goniothalamus carolinensis,Goniothalamus carolinensis
+7262,Gossypium barbadense,Gossypium barbadense
+7264,Gossypium hirsutum,NA
+7268,Graffenrieda ottoschulzii,Graffenrieda ottoschulzii
+7272,Grevillea banksii,Grevillea banksii
+7273,Grevillea robusta,Grevillea robusta
+7274,Grevillea,NA
+7275,Grewia crenata,Grewia crenata
+7279,Guaiacum officinale,Guaiacum officinale
+7280,Guaiacum sanctum,Guaiacum sanctum
+7282,Guamia mariannae,Meiogyne cylindrocarpa
+7285,Guapira fragrans,Guapira fragrans
+7286,Guapira obtusata,Guapira obtusata
+7288,Guarea glabra,Guarea glabra
+7290,Guarea guidonia,Guarea guidonia
+7294,Guatteria blainii,Guatteria blainii
+7295,Guatteria caribaea,Guatteria caribaea
+7298,Guazuma ulmifolia,Guazuma ulmifolia
+7299,Guettarda elliptica,Guettarda elliptica
+7300,Guettarda krugii,Guettarda krugii
+7302,Guettarda odorata,Guettarda odorata
+7303,Guettarda ovalifolia,Guettarda ovalifolia
+7305,Guettarda pungens,Guettarda pungens
+7306,Guettarda scabra,Guettarda scabra
+7307,Guettarda speciosa,Guettarda speciosa
+7309,Guettarda valenzuelana,Guettarda valenzuelana
+7311,Guioa rhoifolia,Guioa rhoifolia
+7312,Guioa,NA
+7313,Gulubia palauensis,Hydriastele palauensis
+7315,Gyminda latifolia,Gyminda latifolia
+7317,Gymnanthes lucida,Gymnanthes lucida
+7319,Gyrocarpus americanus,Gyrocarpus americanus
+7321,Haematoxylum campechianum,Haematoxylum campechianum
+7327,Haenianthus salicifolius,Haenianthus salicifolius
+7328,Halesia tetraptera,Halesia tetraptera
+7329,Hamamelis vernalis,Hamamelis vernalis
+7330,Hamelia patens,Hamelia patens
+7331,Hamamelis virginiana,Hamamelis virginiana
+7332,Haplolobus floribundus,Haplolobus floribundus
+7333,Harpephyllum caffrum,Harpephyllum caffrum
+7334,Harpullia arborea,Harpullia arborea
+7335,Havardia pallens,Havardia pallens
+7336,Hebestigma cubense,Hebestigma cubense
+7338,Hedycarya denticulata,Hedycarya denticulata
+7340,Hedycarya,NA
+7341,Hedyosmum arborescens,Hedyosmum arborescens
+7343,Hedyotis fosbergii,NA
+7344,Hedyotis hillebrandii,Kadua axillaris
+7345,Hedyotis,NA
+7346,Hedyotis terminalis,Kadua affinis
+7347,Helicteres jamaicensis,Helicteres jamaicensis
+7349,Heliocarpus popayanensis,Heliocarpus americanus
+7350,Heliocarpus,NA
+7353,Henriettea fascicularis,Henriettella fascicularis
+7354,Henriettea macfadyenii,Henriettea macfadyenii
+7355,Henriettea membranifolia,Henriettea membranifolia
+7357,Henriettea squamulosum,Henriettea squamulosa
+7359,Heritiera littoralis,Heritiera littoralis
+7360,Heritiera longipetiolata,Heritiera longipetiolata
+7362,Heritiera,NA
+7363,Hernandia moerenhoutiana,Hernandia moerenhoutiana
+7364,Hernandia nymphaeifolia,Hernandia nymphaeifolia
+7365,Hernandia ovigera,Hernandia stokesii
+7366,Hernandia sonora,Hernandia sonora
+7367,Hernandia,NA
+7368,Hernandia labyrinthica,Hernandia labyrinthica
+7370,Hesperomannia arborescens,Hesperomannia arborescens
+7371,Hesperomannia arbuscula,Hesperomannia arbuscula
+7372,Hesperomannia lydgatei,Hesperomannia lydgatei
+7373,Hesperomannia,NA
+7374,Heteromeles arbutifolia,Heteromeles arbutifolia
+7376,Heteromeles,NA
+7377,Heterospathe elata,Heterospathe elata
+7381,Hevea brasiliensis,Hevea brasiliensis
+7384,Hibiscadelphus bombycinus,Hibiscadelphus bombycinus
+7385,Hibiscadelphus crucibracteatus,Hibiscadelphus crucibracteatus
+7386,Hibiscadelphus distans,Hibiscadelphus distans
+7387,Hibiscadelphus giffardianus,Hibiscadelphus giffardianus
+7388,Hibiscadelphus hualalaiensis,Hibiscadelphus hualalaiensis
+7389,Hibiscadelphus puakuahiwi,NA
+7390,Hibiscadelphus,NA
+7391,Hibiscadelphus wilderianus,Hibiscadelphus wilderianus
+7392,Hibiscadelphus woodii,Hibiscadelphus woodii
+7393,Hibiscus arnottianus,Hibiscus arnottianus
+7397,Hibiscus brackenridgei,Hibiscus brackenridgei
+7401,Hibiscus calyphyllus,Hibiscus calyphyllus
+7402,Hibiscus clayi,Hibiscus clayii
+7403,Hibiscus elatus,Hibiscus elatus
+7404,Hibiscus kokio,Hibiscus kokio
+7407,Hibiscus macrophyllus,Hibiscus macrophyllus
+7408,Hibiscus mutabilis,Hibiscus mutabilis
+7409,Hibiscus pernambucensis,Hibiscus tilliaceus
+7410,Hibiscus rosa-sinensis,Hibiscus rosa-sinensis
+7411,Hibiscus,NA
+7412,Hibiscus tiliaceus,Hibiscus tilliaceus
+7413,Hibiscus waimeae,Hibiscus waimeae
+7418,Hirtella rugosa,Hirtella rugosa
+7420,Hirtella triandra,Hirtella triandra
+7422,Homalium racemosum,Homalium racemosum
+7424,Homalium whitmeeanum,Homalium whitmeeanum
+7427,Horsfieldia amklaal,Horsfieldia irya
+7428,Horsfieldia novoguineensis,Horsfieldia novoguineensis
+7429,Horsfieldia nunu,Horsfieldia irya
+7430,Horsfieldia palauensis,Horsfieldia palauensis
+7431,Horsfieldia,NA
+7432,Hovenia dulcis,Hovenia dulcis
+7433,Howeia forsteriana,Howea forsteriana
+7434,Hura crepitans,Hura crepitans
+7438,Hyeronima clusioides,Hieronyma clusioides
+7440,Hylocereus,NA
+7441,Hylocereus undatus,NA
+7442,Hymenaea courbaril,Hymenaea courbaril
+7445,Hypelate trifoliata,Hypelate trifoliata
+7446,Hyperbaena laurifolia,Hyperbaena laurifolia
+7448,Hypericum canariense,NA
+7453,Ilex anomala,Ilex anomala
+7454,Ilex aquifolium,Ilex aquifolium
+7455,Ilex cassine,Ilex cassine
+7456,Ilex cookii,Ilex cookii
+7457,Ilex guianensis,Ilex guianensis
+7458,Ilex macfadyenii,Ilex macfadyenii
+7459,Ilex nitida,Ilex dioica
+7460,Ilex paraguariensis,Ilex paraguariensis
+7462,Ilex sideroxyloides,Ilex sideroxyloides
+7463,Ilex sintenisii,Ilex sintenisii
+7464,Ilex,NA
+7465,Ilex urbaniana,Ilex urbaniana
+7466,Ilex urbaniana,Ilex urbaniana
+7467,Inga,NA
+7469,Ilex vomitoria,Ilex vomitoria
+7470,Inga laurina,Inga laurina
+7471,Inga nobilis,Inga nobilis
+7472,Inga edulis,Inga edulis
+7474,Inga vera,Inga vera
+7475,Inocarpus fagifer,Inocarpus fagifer
+7477,Intsia bijuga,Intsia bijuga
+7479,Ixora ferrea,Ixora ferrea
+7481,Ixora thwaitesii,Ixora thwaitesii
+7482,Jacaranda mimosifolia,Jacaranda mimosifolia
+7483,Jacaranda,NA
+7485,Jacquinia armillaris,Jacquinia armillaris
+7487,Jacquinia berteroi,Jacquinia berteroi
+7489,Juniperus chinensis,Juniperus chinensis
+7490,Jacquinia umbellata,Bonellia umbellata
+7491,Jatropha curcas,Jatropha curcas
+7492,Jatropha hernandiifolia,Jatropha hernandiifolia
+7493,Jatropha multifida,Jatropha multifida
+7494,Jatropha,NA
+7495,Juglans jamaicensis,Juglans jamaicensis
+7496,Juglans regia,Juglans regia
+7497,Kayea pacifica,Kayea pacifica
+7499,Khaya anthotheca,Khaya anthotheca
+7501,Khaya senegalensis,Khaya senegalensis
+7503,Kigelia africana,Kigelia africana
+7506,Kleinhovia hospita,Kleinhovia hospita
+7507,Koelreuteria bipinnata,Koelreuteria bipinnata
+7508,Koanophyllon polyodon,Koanophyllon polyodon
+7509,Kokia cookei,Kokia cookei
+7510,Kokia drynarioides,Kokia drynarioides
+7511,Kokia kauaiensis,Kokia kauaiensis
+7512,Kokia lanceolata,Kokia lanceolata
+7513,Kokia,NA
+7514,Krugiodendron ferreum,Krugiodendron ferreum
+7515,Koelreuteria paniculata,Koelreuteria paniculata
+7516,Kunzea ericoides,Kunzea ericoides
+7517,Kunzea,NA
+7518,Labordia fagraeoidea,Labordia fagraeoidea
+7519,Labordia hedyosmifolia,Labordia hedyosmifolia
+7520,Labordia hirtella,Labordia hirtella
+7521,Labordia kaalae,Labordia kaalae
+7522,Labordia lydgatei,Labordia lydgatei
+7523,Labordia,NA
+7524,Labordia tinifolia,Labordia tinifolia
+7528,Labordia triflora,Labordia triflora
+7529,Labordia waiolani,NA
+7530,Laetia procera,Laetia procera
+7531,Laburnum anagyroides,Laburnum anagyroides
+7532,Lagerstroemia indica,Lagerstroemia indica
+7533,Lagerstroemia speciosa,Lagerstroemia speciosa
+7539,Lansium domesticum,NA
+7541,Laplacea portoricensis,NA
+7543,Latania loddigesii,Latania loddigesii
+7550,Lawsonia inermis,Lawsonia inermis
+7552,Leandra krugiana,Leandra krugiana
+7556,Leptocereus quadricostatus,NA
+7558,Leptospermum morrisonii,Leptospermum morrisonii
+7559,Leptospermum petersonii,Leptospermum petersonii
+7560,Leptospermum polygalifolim,NA
+7561,Leptospermum scoparium,Leptospermum scoparium
+7562,Leptospermum,NA
+7564,Schleinitzia fosbergii,Schleinitzia fosbergii
+7565,Leucaena leucocephala,Leucaena leucocephala
+7566,Leucaena,NA
+7567,Leucaena retusa,Leucaena retusa
+7569,Licaria brittoniana,Licaria brittoniana
+7570,Licaria parvifolia,Misanteca parvifolia
+7571,Liquidambar orientalis,Liquidambar orientalis
+7573,Licaria triandra,Licaria triandra
+7574,Ligustrum amurense,Citharexylum ligustrifolium
+7575,Ligustrum sinense,Ligustrum sinense
+7576,Ligustrum,NA
+7577,Ligustrum japonicum,Ligustrum japonicum
+7578,Ligustrum lucidum,Ligustrum lucidum
+7579,Ligustrum ovalifolium,Ligustrum ovalifolium
+7580,Lindera melissifolia,Lindera melissifolia
+7583,Litchi chinensis,Litchi chinensis
+7586,Litsea samoensis,Litsea samoensis
+7587,Litsea,NA
+7588,Livistona chinensis,Livistona chinensis
+7590,Lonchocarpus domingensis,Lonchocarpus sericeus
+7591,Lonchocarpus glaucifolius,Lonchocarpus glaucifolius
+7592,Lonchocarpus heptaphyllus,Lonchocarpus heptaphyllus
+7593,Lonicera maackii,NA
+7595,Lophostemon confertus,Lophostemon confertus
+7598,Lucuma nervosa,Pouteria campechiana
+7600,Luehea speciosa,Luehea speciosa
+7602,Lumnitzera littorea,Lumnitzera littorea
+7604,Lunania,NA
+7606,Lunania ekmanii,Lunania ekmanii
+7608,Lyonia rubiginosa,Lyonia rubiginosa
+7614,Macadamia integrifolia,Macadamia integrifolia
+7616,Macadamia,NA
+7617,Macadamia tetraphylla,Macadamia tetraphylla
+7618,Macaranga carolinensis,Macaranga carolinensis
+7619,Macaranga grayana,Macaranga grayana
+7620,Macaranga harveyana,Macaranga harveyana
+7621,Macaranga mappa,Macaranga mappa
+7623,Macaranga,NA
+7625,Macaranga stipulosa,Macaranga stipulosa
+7626,Macaranga tanarius,Macaranga tanarius
+7627,Macaranga thompsonii,Macaranga thompsonii
+7628,Machaerium lunatum,Machaerium lunatum
+7630,Machaonia portoricensis,Machaonia portoricensis
+7631,Magnolia stellata,Magnolia stellata
+7632,Maclura tinctoria,Maclura tinctoria
+7633,Maesopsis eminii,Maesopsis eminii
+7634,Magnolia soulangiana,NA
+7635,Magnolia portoricensis,Magnolia portoricensis
+7636,Magnolia splendens,Magnolia splendens
+7637,Magnolia sieboldii,Magnolia sieboldii
+7638,Mallotus palauensis,Mallotus tiliifolius
+7639,Mallotus philippensis,Mallotus philippensis
+7641,Mallotus,NA
+7642,Mallotus tiliifolius,Mallotus tiliifolius
+7643,Malpighia coccigera,Malpighia coccigera
+7644,Malpighia emarginata,Malpighia emarginata
+7645,Malpighia fucata,Malpighia fucata
+7646,Malpighia glabra,Malpighia glabra
+7647,Malpighia infestissima,Malpighia infestissima
+7648,Malpighia linearis,Malpighia linearis
+7649,Malus baccata,Malus baccata
+7650,Malus floribunda,Malus floribunda
+7651,Malus pumila,NA
+7652,Mammea americana,Mammea americana
+7653,Mammea glauca,Mammea glauca
+7654,Mammea odorata,Mammea odorata
+7655,Mammea,NA
+7657,Mangifera minor,Mangifera minor
+7658,Mangifera odorata,Mangifera odorata
+7659,Mangifera,NA
+7660,Manihot carthaginensis,Manihot carthaginensis
+7661,Manihot,NA
+7662,Manilkara bidentata,Manilkara bidentata
+7663,Manilkara bidentata,Manilkara bidentata
+7664,Manilkara dissecta,Manilkara dissecta
+7666,Manilkara hoshinoi,Manilkara hoshinoi
+7667,Manilkara jaimiqui,Manilkara jaimiqui
+7669,Manilkara pleeana,Manilkara pleeana
+7671,Manilkara,NA
+7672,Manilkara udoido,Manilkara udoido
+7673,Manilkara valenzuela,Manilkara valenzuelana
+7674,Manilkara zapota,Manilkara zapota
+7677,Mappia racemosa,Mappia racemosa
+7679,Maranthes corymbosa,Maranthes corymbosa
+7680,Marattia fraxinea,NA
+7682,Margaritaria nobilis,Margaritaria nobilis
+7684,Marlierea sintenisii,Marlierea sintenisii
+7688,Matayba apetala,NA
+7689,Matayba domingensis,Matayba domingensis
+7694,Maytenus boaria,Maytenus boaria
+7695,Maytenus cymosa,Gymnosporia heterophylla
+7697,Maytenus elongata,Maytenus elongata
+7698,Maytenus laevigata,Maytenus laevigata
+7699,Maytenus ponceana,Maytenus ponceana
+7700,Maytenus thompsonii,Gymnosporia thompsonii
+7702,Mecranium latifolium,Mecranium latifolium
+7704,Medusanthera carolinensis,Medusanthera laxiflora
+7705,Medusanthera samoensis,Medusanthera samoensis
+7706,Medusanthera,NA
+7709,Melaleuca,NA
+7710,Melanolepis multiglandulosa,Melanolepis multiglandulosa
+7712,Melastoma candidum,NA
+7713,Melastoma sanguineum,Melastoma sanguineum
+7715,Melaleuca linariifolia,Melaleuca linariifolia
+7716,Melia,NA
+7717,Melicoccus bijugatus,Melicoccus bijugatus
+7719,Melicope anisata,Melicope anisata
+7720,Melicope balloui,Melicope balloui
+7721,Melicope barbigera,Melicope barbigera
+7722,Melicope christophersenii,Melicope christophersenii
+7723,Melicope cinerea,Melicope cinerea
+7724,Melicope clusiifolia,Melicope clusiifolia
+7725,Melicope cruciata,Melicope cruciata
+7726,Melicope elliptica,Pelea elliptica
+7727,Melicope haleakalae,Melicope haleakalae
+7728,Melicope haupuensis,Melicope haupuensis
+7729,Melicope hawaiensis,Melicope hawaiensis
+7730,Melicope hiiakae,Melicope hiiakae
+7731,Melicope hosakae,Melicope hosakae
+7732,Melicope kaalaensis,Melicope kaalaensis
+7733,Melicope knudsenii,Melicope knudsenii
+7734,Melicope macropus,Melicope macropus
+7735,Melicope makahae,Melicope makahae
+7736,Melicope molokaiensis,Melicope molokaiensis
+7737,Melicope mucronulata,Melicope mucronulata
+7738,Melicope oahuensis,Melicope oahuensis
+7739,Melicope obovata,Melicope obovata
+7740,Melicope orbicularis,Melicope orbicularis
+7741,Melicope ovalis,Melicope ovalis
+7742,Melicope ovata,Melicope ovata
+7743,Melicope pallida,Melicope pallida
+7744,Melicope paniculata,Melicope paniculata
+7745,Melicope peduncularis,Melicope peduncularis
+7746,Melicope pseudoanisata,Melicope pseudoanisata
+7747,Melicope puberula,Melicope puberula
+7748,Melicope quadrangularis,Melicope quadrangularis
+7749,Melicope radiata,Melicope radiata
+7750,Melicope latifolia,Melicope latifolia
+7751,Melicope rotundifolia,Melicope rotundifolia
+7752,Melicope saint-johnii,Melicope saintjohnii
+7753,Melicope sandwicensis,Melicope sandwicensis
+7754,Melicope,NA
+7755,Melicope volcanica,Melicope volcanica
+7756,Melicope waialealae,Melicope waialealae
+7757,Melicope wawraeana,Melicope wawraeana
+7758,Melicope zahlbruckneri,Melicope zahlbruckneri
+7759,Melicytus samoensis,NA
+7763,Meliosma herbertii,Meliosma herbertii
+7764,Meliosma obtusifolia,Meliosma obtusifolia
+7766,Melochia aristata,Melochia aristata
+7767,Melochia,NA
+7768,Melochia tomentosa,NA
+7769,Melochia umbellata,Melochia umbellata
+7770,Melochia villosissima,Melochia villosissima
+7771,Melochia villosissima,Melochia villosissima
+7774,Merrilliodendron megacarpum,Merrilliodendron megacarpum
+7776,Meryta macrophylla,Meryta macrophylla
+7777,Meryta senfftiana,Meryta senfftiana
+7778,Meryta,NA
+7779,Metasequoia glyptostroboides,Metasequoia glyptostroboides
+7781,Metrosideros collina,Metrosideros collina
+7782,Metrosideros macropus,Metrosideros macropus
+7783,Metrosideros polymorpha,Metrosideros polymorpha
+7792,Metrosideros rugosa,Metrosideros rugosa
+7793,Metrosideros,NA
+7794,Metrosideros tremuloides,Metrosideros tremuloides
+7795,Metrosideros waialealae,Metrosideros waialealae
+7798,Metroxylon amicarum,Metroxylon amicarum
+7799,Metroxylon sagu,Metroxylon sagu
+7800,Metroxylon,NA
+7801,Michelia champaca,Magnolia champaca
+7803,Miconia lanata,Miconia lanata
+7804,Miconia affinis,Miconia affinis
+7805,Miconia calvescens,Miconia calvescens
+7806,Miconia foveolata,Miconia foveolata
+7807,Miconia impetiolaris,Miconia impetiolaris
+7808,Miconia laevigata,Miconia laevigata
+7810,Miconia mirabilis,Miconia mirabilis
+7812,Miconia pachyphylla,Miconia pachyphylla
+7813,Miconia prasina,Miconia prasina
+7814,Miconia punctata,Miconia punctata
+7815,Miconia pycnoneura,Miconia pycnoneura
+7816,Miconia racemosa,Miconia racemosa
+7817,Miconia rubiginosa,Miconia rubiginosa
+7818,Miconia serrulata,Miconia serrulata
+7819,Miconia sintenisii,Acinodendron sintenisii
+7821,Miconia subcorymbosa,Miconia calycina
+7822,Miconia tetrandra,Miconia tetrandra
+7823,Miconia thomasiana,Acinodendron thomasianum
+7824,Micromelum minutum,Micromelum minutum
+7828,Micropholis garciniifolia,Micropholis garciniifolia
+7829,Micropholis guyanensis,Micropholis guyanensis
+7831,Millettia pinnata,Pongamia pinnata
+7833,Mimosa arenosa,Mimosa arenosa
+7835,Mimusops elengi,Mimusops elengi
+7839,Monodora,NA
+7841,Montanoa hibiscifolia,NA
+7842,Montanoa,NA
+7845,Morella cerifera,Morella cerifera
+7846,Morella faya,Morella faya
+7847,Morella holdridgeana,Morella holdridgeana
+7848,Morella,NA
+7849,Morinda citrifolia,Morinda citrifolia
+7850,Morinda latibractea,Morinda latibractea
+7851,Morinda pedunculata,Morinda pedunculata
+7852,Morinda,NA
+7853,Morinda trimera,Morinda trimera
+7855,Moringa oleifera,Moringa oleifera
+7857,Morisonia americana,Morisonia americana
+7861,Myoporum laetum,Myoporum laetum
+7862,Mouriri domingensis,Mouriri domingensis
+7863,Mouriri helleri,Mouriri helleri
+7865,Munroidendron racemosum,Polyscias racemosa
+7867,Muntingia calabura,Muntingia calabura
+7868,Muntingia,NA
+7869,Murraya exotica,NA
+7870,Murraya koenigii,Murraya koenigii
+7872,Musa paradisiaca,NA
+7873,Musa coccinea,NA
+7874,Musa nana,NA
+7875,Musa sapientum,NA
+7876,Musa,NA
+7877,Musa textilis,NA
+7878,Musa tikap,NA
+7879,Musa troglodytarum,NA
+7880,Mussaenda frondosa,Mussaenda frondosa
+7881,Mussaenda raiateensis,Mussaenda raiateensis
+7882,Mussaenda,NA
+7883,Myoporum sandwicense,Myoporum sandwicense
+7884,Myoporum,NA
+7886,Myrcia citrifolia,Myrcia citrifolia
+7887,Myrcia deflexa,NA
+7888,Myrcia fallax,Myrcia splendens
+7889,Myrcia leptoclada,Myrcia amazonica
+7890,Myrcia paganii,Myrcia paganii
+7891,Myrcia splendens,Myrcia splendens
+7892,Myrcia,NA
+7893,Myrcianthes fragrans,Myrcianthes fragrans
+7894,Myrciaria cauliflora,Plinia cauliflora
+7895,Myrciaria floribunda,Myrciaria floribunda
+7899,Myrica rubra,Myrica rubra
+7900,Myrica,NA
+7902,Myristica hypargyraea,Myristica hypargyraea
+7903,Myristica insularis,Myristica hypargyraea
+7904,Myristica,NA
+7905,Myrospermum frutescens,Myrospermum frutescens
+7906,Myristica inutilis,Myristica inutilis
+7907,Myroxylon balsamum,Myroxylon balsamum
+7910,Myrsine alyxifolia,Myrsine alyxifolia
+7911,Myrsine coriacea,Myrsine coriacea
+7912,Myrsine cubana,Myrsine cubana
+7913,Myrsine degeneri,Myrsine degeneri
+7914,Myrsine emarginata,Myrsine lessertiana
+7915,Myrsine fernseei,Myrsine fernseei
+7916,Myrsine fosbergii,Rapanea fosbergii
+7918,Myrsine helleri,Myrsine helleri
+7919,Myrsine kauaiensis,Myrsine kauaiensis
+7920,Myrsine knudsenii,Myrsine knudsenii
+7921,Myrsine lanaiensis,Myrsine lanaiensis
+7922,Myrsine lessertiana,Myrsine lessertiana
+7923,Myrsine mezii,Myrsine mezii
+7924,Myrsine petiolata,Myrsine petiolata
+7925,Myrsine pukooensis,Myrsine pukooensis
+7926,Myrsine sandwicensis,Myrsine sandwicensis
+7927,Myrsine,NA
+7928,Myrsine wawraea,Myrsine wawraea
+7929,Myrsine palauensis,Myrsine palauensis
+7932,Nectandra coriacea,Nectandra patens
+7933,Nectandra hihua,Nectandra hihua
+7934,Nectandra krugii,Nectandra krugii
+7935,Nectandra membranacea,Nectandra membranacea
+7936,Nectandra patens,Nectandra patens
+7939,Nectandra turbacensis,Nectandra turbacensis
+7940,Neea buxifolia,Neea buxifolia
+7942,Ochrosia oppositifolia,Ochrosia oppositifolia
+7944,Neolamarckia cadamba,Neolamarckia cadamba
+7946,Neolaugeria resinosa,Stenostomum resinosum
+7948,Neonauclea forsteri,Neonauclea forsteri
+7952,Nephelium lappaceum,Nephelium lappaceum
+7953,Nephelium ramboutan-ake,Nephelium ramboutan-ake
+7954,Neraudia melastomifolia,Neraudia melastomifolia
+7956,Nerium oleander,NA
+7958,Nesoluma polynesicum,Sideroxylon polynesicum
+7960,Nestegis sandwicensis,Nestegis sandwicensis
+7961,Nestegis,NA
+7962,Neuburgia celebica,Neuburgia celebica
+7964,Nicotiana glauca,Nicotiana glauca
+7965,Nicotiana,NA
+7966,Nothocestrum breviflorum,Nothocestrum breviflorum
+7967,Nothocestrum latifolium,Nothocestrum latifolium
+7968,Nothocestrum longifolium,Nothocestrum longifolium
+7969,Nothocestrum peltatum,Nothocestrum peltatum
+7970,Nothocestrum,NA
+7971,Nototrichium humile,Nototrichium humile
+7972,Nototrichium sandwicense,Nototrichium sandwicense
+7974,Nypa fruticans,Nypa fruticans
+7976,Ochna mossambicensis,Ochna mossambicensis
+7977,Ochna,NA
+7978,Ochna thomasiana,Ochna thomasiana
+7980,Ochroma pyramidale,Ochroma pyramidale
+7982,Ochrosia compta,Ochrosia compta
+7983,Ochrosia haleakalae,Ochrosia haleakalae
+7984,Ochrosia kauaiensis,Ochrosia kauaiensis
+7985,Ochrosia kilaueaensis,Ochrosia kilaueaensis
+7986,Ochrosia,NA
+7987,Ochrosia mariannensis,Ochrosia mariannensis
+7990,Ocotea floribunda,Ocotea floribunda
+7991,Ocotea foeniculacea,Ocotea foeniculacea
+7994,Ocotea leucoxylon,Ocotea leucoxylon
+7996,Ocotea moschata,Ocotea moschata
+7997,Ocotea nemodaphne,Ocotea cuneata
+7999,Ocotea portoricensis,Ocotea oblonga
+8000,Oleandra neriiformis,NA
+8001,Ocotea spathulata,Ocotea spathulata
+8003,Ocotea wrightii,Ocotea wrightii
+8004,Olea europaea,Olea europaea
+8007,Olea,NA
+8008,Homalanthus acuminatus,Homalanthus acuminatus
+8009,Homalanthus nutans,Homalanthus nutans
+8010,Homalanthus,NA
+8011,Ophiorrhiza palauensis,NA
+8013,Opuntia cochenillifera,NA
+8014,Opuntia ficus-indica,NA
+8015,Opuntia monacantha,Opuntia monacantha
+8018,Opuntia,NA
+8019,Ormosia calavensis,Ormosia calavensis
+8020,Ormosia krugii,Ormosia krugii
+8022,Osmoxylon oliveri,Osmoxylon truncatum
+8023,Osmoxylon pachyphyllum,Osmoxylon pachyphyllum
+8024,Osmoxylon,NA
+8027,Ottoschulzia rhodoxylon,Ottoschulzia rhodoxylon
+8029,Ouratea ilicifolia,Drypetes ilicifolia
+8030,Ouratea littoralis,Ouratea littoralis
+8032,Ouratea striata,Ouratea striata
+8033,Oxandra lanceolata,Oxandra lanceolata
+8034,Oxandra laurifolia,Oxandra laurifolia
+8036,Pachira aquatica,Pachira aquatica
+8037,Pachira insignis,Pachira insignis
+8044,Palaquium stehlinii,Palaquium stehlinii
+8045,Palicourea alpina,Palicourea alpina
+8047,Palicourea crocea,NA
+8049,Palicourea croceoides,Palicourea croceoides
+8051,Palicourea guianensis,Palicourea guianensis
+8053,Pandanus japensis,Pandanus polycephalus
+8054,Pandanus aimiriikensis,Pandanus polycephalus
+8055,Pandanus cominsii,Pandanus conoideus
+8056,Pandanus compressus,Pandanus dubius
+8057,Pandanus cylindricus,Pandanus tectorius
+8058,Pandanus dilatatus,Pandanus tectorius
+8059,Pandanus divergens,Pandanus tectorius
+8060,Pandanus dubius,Pandanus dubius
+8061,Pandanus duriocarpus,Pandanus tectorius
+8062,Pandanus enchabiensis,Pandanus tectorius
+8063,Pandanus fischerianus,Pandanus tectorius
+8064,Pandanus fragrans,Pandanus tectorius
+8065,Pandanus hosinoi,Pandanus tectorius
+8066,Pandanus jaluitensis,Pandanus tectorius
+8067,Pandanus kanehirae,Pandanus kanehirae
+8068,Pandanus korrensis,Pandanus tectorius
+8069,Pandanus lakatwa,Pandanus tectorius
+8070,Pandanus laticanaliculatus,Pandanus tectorius
+8071,Pandanus macrocephalus,Pandanus tectorius
+8072,Pandanus macrojeanneretia,Pandanus polycephalus
+8073,Pandanus menne,Pandanus tectorius
+8074,Palaquium karrak,Palaquium karrak
+8075,Pandanus odontoides,Pandanus tectorius
+8076,Pandanus palawensis,Pandanus palawensis
+8077,Pandanus patina,Pandanus patina
+8078,Pandanus peliliuensis,Pandanus polycephalus
+8079,Pandanus ponapensis,Pandanus tectorius
+8080,Pandanus pulposus,Pandanus tectorius
+8081,Pandanus rectangulatus,Pandanus tectorius
+8082,Pandanus reineckei,Pandanus reineckei
+8083,Pandanus rotundatus,Pandanus tectorius
+8084,Pandanus,NA
+8085,Pandanus tectorius,Pandanus tectorius
+8086,Pandanus tolotomensis,Pandanus tectorius
+8087,Pandanus trukensis,Pandanus tectorius
+8088,Pandanus utilis,Pandanus utilis
+8090,Pandanus variegatus,Pandanus tectorius
+8091,Pangium edule,Pangium edule
+8092,Pandanus obliquus,Pandanus tectorius
+8099,Parathesis crenulata,Parathesis crenulata
+8103,Parinari insularum,Parinari insularum
+8104,Parinari laurina,NA
+8105,Parinari,NA
+8106,Parkia,NA
+8107,Parkia korom,Parkia korom
+8108,Parkia parvifoliola,Parkia parvifoliola
+8110,Parkia timoriana,Parkia timoriana
+8111,Parkinsonia aculeata,Parkinsonia aculeata
+8112,Parkinsonia,NA
+8113,Parmentiera aculeata,Parmentiera aculeata
+8114,Parmentiera cereifera,Parmentiera cereifera
+8115,Parkinsonia texana,Cercidium texanum
+8121,Peltophorum pterocarpum,Peltophorum pterocarpum
+8123,Pemphis acidula,Pemphis acidula
+8125,Pentadesma butyracea,Pentadesma butyracea
+8127,Pera bumeliifolia,Pera bumeliifolia
+8129,Pericopsis mooniana,Pericopsis mooniana
+8131,Perrottetia sandwicensis,Perrottetia sandwicensis
+8134,Persea krugii,Mutisiopersea krugii
+8138,Persea urbaniana,Mutisiopersea urbaniana
+8141,Petitia domingensis,Petitia domingensis
+8143,Phialanthus grandifolius,Phialanthus grandifolius
+8144,Phialanthus myrtilloides,Phialanthus myrtilloides
+8146,Phaleria nisidai,NA
+8150,Phoenix roebelenii,NA
+8151,Phoenix canariensis,Phoenix canariensis
+8152,Phoenix dactylifera,Phoenix dactylifera
+8153,Phoenix,NA
+8154,Phoenix sylvestris,Phoenix sylvestris
+8155,Photinia davidiana,Photinia davidiana
+8157,Phyllanthus acidus,Phyllanthus acidus
+8159,Phyllanthus distichus,Phyllanthus distichus
+8160,Phyllanthus juglandifolius,Phyllanthus juglandifolius
+8162,Phyllanthus orbicularis,Phyllanthus orbicularis
+8164,Picramnia pentandra,Picramnia pentandra
+8167,Picrasma excelsa,Picrasma excelsa
+8169,Pictetia aculeata,Pictetia aculeata
+8171,Pilocarpus racemosus,Pilocarpus racemosus
+8173,Pilosocereus royenii,Pilosocereus royenii
+8175,Pimenta dioica,Pimenta dioica
+8177,Pimenta racemosa,Pimenta racemosa
+8178,Pimenta racemosa,Pimenta racemosa
+8180,Pimenta,NA
+8181,Pinanga insignis,Pinanga insignis
+8182,Pinus roxburghii,Pinus roxburghii
+8183,Pinus caribaea,Pinus caribaea
+8184,Pinus massoniana,Pinus massoniana
+8185,Pinus merkusii,Pinus merkusii
+8186,Pinus oocarpa,Pinus oocarpa
+8187,Pinus patula,Pinus patula
+8188,Pinus pinaster,Pinus pinaster
+8189,Pinus densiflora,Pinus densiflora
+8190,Piper aduncum,Piper aduncum
+8191,Piper amalago,Piper amalago
+8192,Piper blattarum,Piper blattarum
+8193,Piper glabrescens,Piper glabrescens
+8194,Piper hispidum,Piper hispidum
+8195,Piper jacquemontianum,Piper jacquemontianum
+8196,Piper marginatum,Piper marginatum
+8197,Pinus parviflora,Pinus parviflora
+8198,Pinus thunbergii,Pinus thunbergii
+8199,Piper swartzianum,Piper swartzianum
+8200,Pinus bungeana,Pinus bungeana
+8201,Pinus canariensis,Pinus canariensis
+8202,Pinus halepensis,Pinus halepensis
+8203,Pinus pinea,Pinus pinea
+8205,Pipturus albidus,Pipturus albidus
+8206,Pipturus argenteus,Pipturus argenteus
+8207,Pipturus,NA
+8208,Piscidia carthagenensis,Piscidia carthagenensis
+8210,Piscidia,NA
+8211,Pisonia albida,Pisonia albida
+8212,Pisonia brunoniana,Pisonia brunoniana
+8213,Pisonia grandis,Pisonia grandis
+8214,Pisonia sandwicensis,Pisonia sandwicensis
+8215,Pisonia,NA
+8216,Pisonia subcordata,Pisonia subcordata
+8217,Pisonia umbellifera,Pisonia umbellifera
+8218,Pisonia wagneriana,Pisonia wagneriana
+8219,Pistacia chinensis,Pistacia chinensis
+8220,Pithecellobium dulce,Pithecellobium dulce
+8222,Pittosporum tobira,NA
+8223,Pithecellobium unguis-cati,Pithecellobium unguis-cati
+8224,Pittosporum monae,NA
+8225,Pittosporum ferrugineum,Pittosporum ferrugineum
+8226,Pittosporum argentifolium,Pittosporum argentifolium
+8227,Pittosporum confertiflorum,Pittosporum confertiflorum
+8228,Pittosporum flocculosum,Pittosporum flocculosum
+8229,Pittosporum gayanum,Pittosporum gayanum
+8230,Pittosporum glabrum,Pittosporum glabrum
+8231,Pittosporum halophilum,Pittosporum halophylum
+8232,Pittosporum hawaiiense,Pittosporum hawaiiense
+8233,Pittosporum hosmeri,Pittosporum hosmeri
+8234,Pittosporum kauaiense,Pittosporum kauaiense
+8235,Pittosporum napaliense,Pittosporum napaliense
+8236,Pittosporum pentandrum,Pittosporum pentandrum
+8238,Pittosporum,NA
+8239,Pittosporum terminalioides,Pittosporum terminalioides
+8240,Pittosporum undulatum,Pittosporum undulatum
+8241,Pittosporum viridiflorum,Pittosporum viridiflorum
+8242,Planchonella garberi,Planchonella garberi
+8243,Planchonella grayana,Planchonella tahitensis
+8244,Planchonella linggensis,Planchonella chartacea
+8246,Planchonella samoensis,Planchonella torricellensis
+8247,Planchonella,NA
+8248,Planchonella torricellensis,Planchonella torricellensis
+8249,Platycladus orientalis,Platycladus orientalis
+8250,Platydesma remyi,Platydesma remyi
+8251,Platydesma spathulata,NA
+8252,Platydesma,NA
+8253,Platanus hybrida,NA
+8254,Platanus orientalis,Platanus orientalis
+8255,Pleodendron macranthum,Pleodendron macranthum
+8256,Platanus mexicana,Platanus mexicana
+8257,Pleomele aurea,Dracaena aurea
+8258,Pleomele auwahiensis,Dracaena rockii
+8259,Pleomele fernaldii,Dracaena fernaldii
+8260,Pleomele forbesii,Dracaena forbesii
+8261,Pleomele halapepe,NA
+8262,Pleomele hawaiiensis,Dracaena konaensis
+8263,Pleomele,NA
+8266,Plumeria alba,Plumeria alba
+8268,Plumeria obtusa,Plumeria obtusa
+8269,Plumeria obtusa,Plumeria obtusa
+8271,Plumeria rubra,Plumeria rubra
+8272,Plumeria,NA
+8273,Podocarpus coriaceus,Podocarpus coriaceus
+8274,Podocarpus macrophyllus,Podocarpus macrophyllus
+8275,Poitea florida,Poitea florida
+8276,Poitea punicea,Poitea punicea
+8279,Polygala cowellii,Polygala cowellii
+8280,Polygala penaea,Badiera penaea
+8283,Polyscias grandifolia,Polyscias macgillivrayi
+8284,Polyscias guilfoylei,Polyscias guilfoylei
+8285,Polyscias macgillivrayi,Polyscias macgillivrayi
+8286,Polyscias nodosa,Polyscias nodosa
+8287,Polyscias samoensis,Polyscias samoensis
+8288,Polyscias scutellaria,Polyscias scutellaria
+8289,Polyscias,NA
+8290,Pometia pinnata,Allophylus cobbe
+8292,Ponapea hosinoi,Ponapea hosinoi
+8293,Ponapea ledermanniana,Ponapea ledermanniana
+8294,Ponapea,NA
+8295,Pongamia pinnata,Pongamia pinnata
+8296,Poncirus trifoliata,Citrus trifoliata
+8297,Pouteria caimito,Pouteria caimito
+8298,Pouteria calcarea,Planchonella calcarea
+8299,Pouteria campechiana,Pouteria campechiana
+8300,Pouteria dictyoneura,Pouteria dictyoneura
+8301,Pouteria hotteana,Pouteria hotteana
+8302,Pouteria multiflora,Pouteria multiflora
+8303,Planchonella obovata,Planchonella obovata
+8304,Pouteria sandwicensis,Planchonella sandwicensis
+8305,Pouteria sapota,Pouteria sapota
+8306,Pouteria,NA
+8307,Premna obtusifolia,Premna serratifolia
+8308,Premna pubescens,Premna pubescens
+8309,Premna serratifolia,Premna serratifolia
+8310,Premna,NA
+8311,Prestoea acuminata,Prestoea acuminata
+8313,Populus canadensis,NA
+8314,Populus canescens,NA
+8315,Pritchardia affinis,Pritchardia maideniana
+8316,Pritchardia arecina,Pritchardia arecina
+8317,Pritchardia beccariana,Pritchardia beccariana
+8318,Pritchardia forbesiana,Pritchardia forbesiana
+8319,Pritchardia hardyi,Pritchardia hardyi
+8320,Pritchardia hillebrandii,Pritchardia hillebrandii
+8321,Pritchardia kaalae,Pritchardia kaalae
+8322,Pritchardia lanaiensis,Pritchardia glabrata
+8323,Pritchardia lanigera,Pritchardia lanigera
+8324,Pritchardia limahuliensis,Pritchardia napaliensis
+8325,Pritchardia lowreyana,Pritchardia lowreyana
+8326,Pritchardia martii,Pritchardia martii
+8327,Pritchardia minor,Pritchardia minor
+8328,Pritchardia munroi,Pritchardia munroi
+8329,Pritchardia pacifica,Pritchardia pacifica
+8330,Pritchardia perlmanii,Pritchardia perlmanii
+8331,Pritchardia remota,Pritchardia remota
+8336,Pritchardia schattaueri,Pritchardia schattaueri
+8337,Pritchardia,NA
+8338,Pritchardia viscosa,Pritchardia viscosa
+8339,Pritchardia waialealeana,Pritchardia waialealeana
+8340,Prockia crucis,Prockia crucis
+8341,Procris pedunculata,NA
+8342,Prosopis cineraria,Prosopis cineraria
+8343,Prosopis juliflora,Prosopis juliflora
+8344,Prosopis pallida,Prosopis pallida
+8345,Prunus caroliniana,Prunus caroliniana
+8346,Prunus myrtifolia,Prunus myrtifolia
+8347,Prunus occidentalis,Prunus occidentalis
+8348,Prunus cerasifera,Prunus cerasifera
+8349,Prunus serotina,Prunus serotina
+8350,Prunus armeniaca,Prunus armeniaca
+8351,Prunus dulcis,Prunus dulcis
+8352,Pseudolmedia spuria,Pseudolmedia spuria
+8353,Pseudophoenix sargentii,Pseudophoenix sargentii
+8354,Psidium amplexicaule,Psidium amplexicaule
+8355,Psidium cattleianum,Psidium cattleianum
+8356,Psidium guajava,Psidium guajava
+8357,Prunus yedoensis,NA
+8358,Psidium longipes,Mosiera longipes
+8359,Psidium sintenisii,Psidium sintenisii
+8360,Prunus salicina,Prunus salicina
+8361,Psychotria berteriana,NA
+8362,Psychotria brachiata,Psychotria brachiata
+8363,Psychotria brownei,Psychotria glabrata
+8364,Psychotria domingensis,Palicourea domingensis
+8365,Psychotria fauriei,Psychotria fauriei
+8366,Psychotria grandiflora,Psychotria grandiflora
+8367,Psychotria grandis,Psychotria grandis
+8368,Psychotria carolinensis,Psychotria hombroniana
+8369,Psychotria greenwelliae,Psychotria greenwelliae
+8370,Psychotria hathewayi,Psychotria hathewayi
+8373,Psychotria hawaiiensis,Psychotria hawaiiensis
+8377,Psychotria hexandra,Psychotria hexandra
+8382,Psychotria hexandra,Psychotria hexandra
+8386,Psychotria hobdyi,Psychotria hobdyi
+8387,Psychotria insularum,Psychotria insularum
+8388,Psychotria kaduana,Psychotria kaduana
+8389,Psychotria maleolens,Psychotria maleolens
+8390,Psychotria mariana,Psychotria mariana
+8391,Psychotria maricaensis,Psychotria maricaensis
+8392,Psychotria mariniana,Psychotria mariniana
+8393,Psychotria mauiensis,Psychotria mauiensis
+8394,Psychotria microdon,Margaritopsis microdon
+8395,Psychotria nutans,NA
+8397,Psychotria pubescens,Psychotria pubescens
+8398,Psychotria rhombocarpa,Psychotria rhombocarpa
+8399,Psychotria rotensis,Psychotria rotensis
+8400,Psychotria,NA
+8401,Psychotria wawrae,Psychotria wawrae
+8402,Psydrax odorata,Psydrax odorata
+8403,Ptelea trifoliata,Ptelea trifoliata
+8404,Pteralyxia kauaiensis,Pteralyxia kauaiensis
+8405,Pteralyxia macrocarpa,Pteralyxia laurifolia
+8406,Pteralyxia,NA
+8407,Pterocarpus indicus,Pterocarpus indicus
+8408,Pterocarpus macrocarpus,Pterocarpus macrocarpus
+8409,Pterocarpus marsupium,Pterocarpus marsupium
+8410,Pterocarpus officinalis,Pterocarpus officinalis
+8411,Pterocarya stenoptera,Pterocarya stenoptera
+8412,Ptychococcus ledermannianus,NA
+8413,Psychotria cheathamiana,Psychotria cheathamiana
+8415,Ptychosperma macarthuri,Ptychosperma macarthurii
+8416,Ptychosperma palauense,Ponapea palauensis
+8418,Ptychosperma,NA
+8419,Punica granatum,Punica granatum
+8420,Pyrus,NA
+8421,Pyrus calleryana,Pyrus calleryana
+8422,Quararibea turbinata,Quararibea turbinata
+8423,Pyrus communis,Pyrus communis
+8424,Quercus suber,Quercus suber
+8425,Randia aculeata,Randia aculeata
+8426,Pyrus pyrifolia,Pyrus pyrifolia
+8427,Quercus acutissima,Quercus acutissima
+8429,Quercus austrina,Quercus austrina
+8430,Rapanea myricifolia,Rapanea myricifolia
+8431,Rauvolfia vomitoria,Rauvolfia vomitoria
+8432,Rauvolfia insularis,Rauvolfia insularis
+8433,Rauvolfia nitida,Rauvolfia nitida
+8434,Rauvolfia sandwicensis,Rauvolfia sandwicensis
+8435,Rauvolfia,NA
+8436,Ravenala madagascariensis,Ravenala madagascariensis
+8437,Quercus cerris,Quercus cerris
+8438,Quercus fusiformis,Quercus fusiformis
+8439,Ravenia urbanii,Ravenia urbanii
+8440,Reynoldsia lanutoensis,NA
+8441,Quercus geminata,Quercus geminata
+8442,Reynoldsia sandwicensis,Polyscias sandwicensis
+8443,Reynoldsia,NA
+8444,Reynosia guama,Reynosia guama
+8445,Reynosia krugii,Reynosia krugii
+8447,Reynosia uncinata,Reynosia uncinata
+8449,Quercus hemisphaerica,Quercus hemisphaerica
+8450,Quercus ilex,Quercus ilex
+8453,Quercus pungens,Quercus pungens
+8455,Quercus tardifolia,NA
+8456,Rheedia edulis,Garcinia intermedia
+8457,Quercus toumeyi,Quercus toumeyi
+8458,Rhizophora apiculata,Rhizophora apiculata
+8459,Quercus turbinella,Quercus turbinella
+8460,Rhizophora lamarckii,NA
+8461,Quercus vaseyana,Quercus vaseyana
+8462,Rhizophora mucronata,Rhizophora mucronata
+8463,Rhizophora,NA
+8464,Rhizophora stylosa,Rhizophora stylosa
+8465,Rhodomyrtus,NA
+8466,Rhodomyrtus tomentosa,Rhodomyrtus tomentosa
+8467,Rhus sandwicensis,Rhus sandwicensis
+8468,Rhus,NA
+8469,Rhus taitensis,Rhus taitensis
+8470,Rhus lancea,Searsia lancea
+8471,Rhododendron catawbiense,Rhododendron catawbiense
+8472,Ricinus communis,Ricinus communis
+8473,Ricinus,NA
+8474,Rinorea carolinensis,NA
+8475,Rhus copallinum,Rhus copallinum
+8476,Rochefortia acanthophora,Rochefortia acanthophora
+8477,Rhus glabra,Rhus glabra
+8478,Rochefortia spinosa,Rochefortia spinosa
+8479,Rhus lanceolata,Rhus lanceolata
+8480,Rollinia deliciosa,Rollinia mucosa
+8481,Rollinia mucosa,Rollinia mucosa
+8483,Rondeletia inermis,Rondeletia inermis
+8484,Rondeletia pilosa,Rondeletia pilosa
+8485,Rondeletia portoricensis,Rondeletia portoricensis
+8486,Robinia hispida,Robinia hispida
+8487,Quercus sinuata,Quercus sinuata
+8489,Roystonea borinquena,Roystonea borinquena
+8490,Roystonea elata,Roystonea regia
+8491,Roystonea oleracea,Roystonea oleracea
+8492,Quercus robusta,NA
+8494,Sabal causiarum,Sabal causiarum
+8495,Sabal minor,Sabal minor
+8499,Sagraea umbrosa,NA
+8501,Salix humboldtiana,Salix humboldtiana
+8502,Salix discolor,Salix discolor
+8503,Samadera indica,Quassia indica
+8504,Salix lasiolepis,Salix lasiolepis
+8505,Samanea saman,Albizia saman
+8506,Samanea,NA
+8508,Salix gooddingii,Salix gooddingii
+8509,Sambucus nigra,Sambucus nigra
+8510,Sambucus,NA
+8511,Quercus gravesii,Quercus gravesii
+8512,Quercus polymorpha,Quercus polymorpha
+8513,Quercus buckleyi,Quercus buckleyi
+8514,Quercus laceyi,Quercus laceyi
+8515,Sandoricum koetjape,Sandoricum koetjape
+8516,Santalum ellipticum,Santalum ellipticum
+8517,Santalum freycinetianum,Santalum freycinetianum
+8518,Santalum album,Santalum album
+8519,Salix lutea,Salix lutea
+8521,Santalum haleakalae,Santalum haleakalae
+8522,Santalum paniculatum,Santalum paniculatum
+8523,Salix planifolia,Salix planifolia
+8524,Salix sericea,Salix sericea
+8525,Santalum salicifolium,Santalum salicifolium
+8526,Santalum,NA
+8527,Sambucus nigra,Sambucus nigra
+8528,Sapindus oahuense,Sapindus oahuensis
+8529,Sapindus saponaria,Sapindus saponaria
+8531,Sapindus,NA
+8532,Sapindus vitiensis,Sapindus vitiensis
+8533,Sapium glandulosum,Sapium glandulosum
+8534,Sapium indicum,Shirakiopsis indica
+8535,Sapium laurifolium,Sapium laurifolium
+8536,Sapium laurocerasus,Sapium laurocerasus
+8544,Sarcopygme pacifica,Sarcopygme pacifica
+8546,Savia sessiliflora,Savia sessiliflora
+8548,Scaevola cerasifolia,NA
+8549,Scaevola chamissoniana,Scaevola chamissoniana
+8550,Scaevola gaudichaudiana,Scaevola gaudichaudiana
+8551,Scaevola procera,Scaevola procera
+8552,Scaevola,NA
+8553,Schefflera kraemeri,Schefflera kraemeri
+8554,Schaefferia frutescens,Schaefferia frutescens
+8555,Schaefferia,NA
+8556,Samyda dodecandra,Samyda dodecandra
+8557,Schefflera gleasonii,Schefflera gleasonii
+8558,Schefflera morototonii,NA
+8559,Schefflera samoensis,Schefflera samoensis
+8560,Scaevola taccada,NA
+8561,Schinus molle,Schinus molle
+8563,Schinus terebinthifolius,Schinus terebinthifolia
+8565,Schizolobium parahybum,Schizolobium parahyba
+8567,Schleichera oleosa,Schleichera oleosa
+8571,Schoepfia arenaria,Schoepfia arenaria
+8572,Schoepfia obovata,Schoepfia obovata
+8573,Schoepfia schreberi,Schoepfia schreberi
+8577,Scyphiphora hydrophyllacea,Scyphiphora hydrophylacea
+8583,Securinega flexuosa,Flueggea flexuosa
+8585,Semecarpus kraemeri,Semecarpus kraemeri
+8586,Semecarpus venenosa,Semecarpus venenosa
+8588,Senna alata,Senna alata
+8589,Senna atomaria,Senna atomaria
+8590,Senna gaudichaudii,Senna gaudichaudii
+8591,Senna multijuga,Senna multijuga
+8592,Senna pendula,Senna pendula
+8594,Senna polyphylla,Senna polyphylla
+8595,Senna septemtrionalis,Senna septemtrionalis
+8596,Senna siamea,Senna siamea
+8597,Senna spectabilis,Senna spectabilis
+8598,Senna,NA
+8599,Senna sulfurea,Senna sulfurea
+8600,Senna surattensis,Senna surattensis
+8601,Serianthes kanehirae,NA
+8603,Serianthes nelsonii,Serianthes nelsonii
+8605,Sesbania grandiflora,Sesbania grandiflora
+8606,Sesbania sesban,Sesbania sesban
+8607,Sesbania,NA
+8608,Shirakiopsis indica,Shirakiopsis indica
+8609,Sida fallax,Sida fallax
+8610,Sida,NA
+8611,Sideroxylon cubense,Sideroxylon cubense
+8612,Sideroxylon celastrinum,Sideroxylon celastrinum
+8613,Sideroxylon obovatum,Sideroxylon obovatum
+8614,Sideroxylon portoricense,Sideroxylon portoricense
+8615,Sideroxylon lycioides,Sideroxylon lycioides
+8616,Sideroxylon tenax,Sideroxylon tenax
+8617,Simarouba,NA
+8618,Sideroxylon laetevirens,Planchonella laetevirens
+8619,Simarouba tulae,Simarouba tulae
+8620,Siphoneugena densiflora,Siphoneugena densiflora
+8621,Sideroxylon persimile,Sideroxylon persimile
+8622,Sloanea,NA
+8623,Sloanea amygdalina,Sloanea amygdalina
+8624,Sloanea berteriana,Sloanea berteroana
+8626,Solanum bahamense,Solanum bahamense
+8627,Solanum donianum,Solanum donianum
+8628,Solanum americanum,NA
+8629,Solanum erianthum,Solanum erianthum
+8631,Solanum mauritianum,Solanum mauritianum
+8632,Solanum nudum,Solanum nudum
+8633,Solanum polygamum,Solanum polygamum
+8634,Solanum rugosum,Solanum rugosum
+8635,Solanum,NA
+8636,Solanum torvum,Solanum torvum
+8639,Sonneratia alba,Sonneratia alba
+8641,Sophora chrysophylla,Sophora chrysophylla
+8642,Sophora,NA
+8643,Sophora tomentosa,Sophora tomentosa
+8644,Spathodea campanulata,Spathodea campanulata
+8645,Spathodea,NA
+8646,Spiraeanthemum samoense,Spiraeanthemum samoense
+8647,Styphnolobium japonicum,Styphnolobium japonicum
+8648,Sophora secundiflora,Dermatophyllum secundiflorum
+8649,Spondias dulcis,Spondias dulcis
+8650,Spondias mombin,Spondias mombin
+8651,Cordia boissieri,Cordia boissieri
+8652,Spondias purpurea,Spondias purpurea
+8653,Spondias,NA
+8654,Stahlia monosperma,Stahlia monosperma
+8655,Stemonurus ammui,Stemonurus ammui
+8656,Spondias pinnata,Spondias pinnata
+8657,Sorbaria,NA
+8658,Sorbus scopulina,Sorbus scopulina
+8659,Sorbus sitchensis,Sorbus sitchensis
+8660,Soulamea amara,Soulamea amara
+8664,Sterculia apetala,Sterculia apetala
+8665,Sterculia fanaiho,Sterculia fanaiho
+8666,Sterculia foetida,Sterculia foetida
+8667,Sterculia palauensis,Sterculia palauensis
+8668,Stewartia malacodendron,Stewartia malacodendron
+8669,Streblus anthropophagorum,Streblus anthropophagorum
+8670,Streblus pendulinus,Streblus pendulina
+8671,Streblus,NA
+8672,Stewartia ovata,Stewartia ovata
+8673,Styrax americanus,Styrax americanus
+8674,Styrax portoricensis,Styrax portoricensis
+8675,Stewartia koreana,Stewartia pseudocamellia
+8676,Suriana maritima,Suriana maritima
+8678,Swietenia,NA
+8679,Swietenia macrophylla,Swietenia macrophylla
+8683,Symplocos lanata,Symplocos lanata
+8684,Symplocos martinicensis,Symplocos martinicensis
+8685,Symplocos micrantha,Symplocos micrantha
+8686,Syagrus romanzoffiana,Syagrus romanzoffiana
+8687,Symplocos racemosa,Symplocos racemosa
+8689,Syncarpia glomulifera,Syncarpia glomulifera
+8690,Syncarpia,NA
+8691,Synsepalum dulcificum,Synsepalum dulcificum
+8693,Syringa vulgaris,Syringa vulgaris
+8694,Syzygium aqueum,Syzygium aqueum
+8695,Syzygium brevifolium,Syzygium brevifolium
+8696,Syzygium carolinense,Syzygium carolinense
+8697,Syzygium clusiifolium,Syzygium clusiifolium
+8698,Syzygium grande,Syzygium grande
+8699,Syzygium dealatum,Syzygium dealbatum
+8700,Syzygium inophylloides,Syzygium inophylloides
+8701,Syzygium jambos,Syzygium jambos
+8702,Syzygium malaccense,Syzygium malaccense
+8703,Syzygium richii,Syzygium richii
+8704,Syzygium samarangense,Syzygium samarangense
+8705,Syzygium samoense,Syzygium samoense
+8706,Syzygium sandwicense,Syzygium sandwicense
+8707,Syzygium paniculatum,Syzygium paniculatum
+8708,Syzygium,NA
+8709,Tabebuia chrysantha,Handroanthus chrysanthus
+8710,Tabebuia donnell-smithii,Roseodendron donnell-smithii
+8712,Tabebuia haemantha,Tabebuia haemantha
+8713,Tabebuia heterophylla,Tabebuia heterophylla
+8714,Tabebuia pallida,Tabebuia pallida
+8715,Tabebuia rigida,Tabebuia rigida
+8716,Tabebuia rosea,Tabebuia rosea
+8717,Tabebuia schumanniana,Tabebuia schumanniana
+8718,Tabebuia,NA
+8719,Tabernaemontana aurantiaca,Tabernaemontana aurantiaca
+8720,Tabernaemontana citrifolia,Tabernaemontana citrifolia
+8722,Tabernaemontana pandacaqui,Tabernaemontana pandacaqui
+8723,Tabernaemontana rotensis,Tabernaemontana pandacaqui
+8727,Tamarix aphylla,Tamarix aphylla
+8728,Tamarix chinensis,Tamarix chinensis
+8729,Tamarix ramosissima,Tamarix ramosissima
+8737,Tarenna sambucina,Tarenna sambucina
+8738,Taxus baccata,Taxus baccata
+8739,Taxus cuspidata,Taxus cuspidata
+8741,Tecoma castanifolia,Tecoma castanifolia
+8743,Tecoma stans,Tecoma stans
+8744,Tectona grandis,Tectona grandis
+8745,Tectona,NA
+8748,Terminalia,NA
+8749,Terminalia carolinensis,Terminalia carolinensis
+8750,Terminalia catappa,Terminalia catappa
+8751,Terminalia crassipes,Terminalia crassipes
+8752,Terminalia edulis,Terminalia microcarpa
+8753,Terminalia litoralis,Terminalia litoralis
+8754,Terminalia ivorensis,Terminalia ivorensis
+8755,Terminalia kaernbachii,Terminalia kaernbacchii
+8756,Terminalia myriocarpa,Terminalia myriocarpa
+8757,Terminalia oblonga,Terminalia oblonga
+8758,Terminalia richii,Terminalia richii
+8759,Terminalia samoensis,Terminalia samoensis
+8761,Terminalia superba,Terminalia superba
+8762,Ternstroemia heptasepala,Ternstroemia heptasepala
+8763,Ternstroemia luquillensis,Ternstroemia luquillensis
+8764,Ternstroemia peduncularis,Ternstroemia tepezapote
+8766,Ternstroemia stahlii,Ternstroemia stahlii
+8767,Ternstroemia subsessilis,Ternstroemia subsessilis
+8768,Tetragastris balsamifera,Tetragastris balsamifera
+8770,Tetraplasandra flynnii,Polyscias flynnii
+8771,Tetraplasandra gymnocarpa,Polyscias gymnocarpa
+8772,Tetraplasandra hawaiensis,Polyscias hawaiensis
+8773,Tetraplasandra kavaiensis,Polyscias kavaiensis
+8774,Tetraplasandra oahuensis,Polyscias oahuensis
+8775,Tetraplasandra,NA
+8776,Tetraplasandra waialealae,Polyscias waialealae
+8777,Tetraplasandra waimeae,Polyscias waimeae
+8778,Tetrazygia angustifolia,Tetrazygia angustifolia
+8779,Tetrazygia bicolor,Tetrazygia bicolor
+8780,Tetrazygia biflora,Tetrazygia biflora
+8781,Tetrazygia elaeagnoides,Miconia elaeagnoides
+8783,Tetrazygia urbanii,Tetrazygia urbanii
+8784,Theobroma cacao,Theobroma cacao
+8786,Thespesia grandiflora,Thespesia grandiflora
+8787,Thespesia populnea,Thespesia populnea
+8788,Thespesia,NA
+8789,Thevetia peruviana,Cascabela thevetia
+8793,Thouinia striata,Thouinia striata
+8794,Thouinia striata,Thouinia striata
+8799,Timonius albus,Timonius albus
+8800,Timonius ledermanii,Timonius ledermannii
+8801,Timonius ponapensis,NA
+8803,Tibouchina granulosa,Pleroma granulosum
+8804,Tibouchina,NA
+8805,Tibouchina urvilleana,NA
+8806,Timonius corymbosus,Timonius corymbosus
+8807,Timonius mollis,Timonius mollis
+8808,Timonius,NA
+8809,Timonius subauritus,Timonius subauritus
+8810,Timonius timon,Timonius timon
+8811,Toona,NA
+8812,Toona ciliata,Toona ciliata
+8813,Tilia cordata,Tilia cordata
+8814,Tilia tomentosa,Tilia tomentosa
+8815,Tipuana tipu,Tipuana tipu
+8816,Torralbasia cuneifolia,Torralbasia cuneifolia
+8821,Trachycarpus fortunei,Trachycarpus fortunei
+8822,Touchardia latifolia,Touchardia latifolia
+8823,Touchardia,NA
+8824,Tournefortia argentea,Heliotropium argyreum
+8825,Tournefortia filiflora,Tournefortia filiflora
+8826,Tournefortia,NA
+8827,Trema cannabina,Trema cannabina
+8828,Trema lamarckianum,Trema lamarckiana
+8829,Trema micranthum,Trema micrantha
+8830,Toxicodendron vernix,Toxicodendron vernix
+8831,Trema orientalis,Trema orientalis
+8832,Trema,NA
+8833,Trichilia hirta,Trichilia hirta
+8834,Trichilia pallida,Trichilia pallida
+8836,Trichilia triacantha,Trichilia triacantha
+8837,Trichospermum ikutai,Trichospermum ikutae
+8838,Trichospermum ledermannii,NA
+8839,Trichospermum richii,Trichospermum richii
+8842,Triphasia trifolia,Triphasia trifolia
+8843,Triplaris,NA
+8844,Triplaris cumingiana,Triplaris cumingiana
+8846,Tristiropsis obtusangula,Tristiropsis acutangula
+8848,Trophis racemosa,Trophis racemosa
+8849,Trukia carolinensis,Atractocarpus carolinensis
+8850,Turpinia occidentalis,Turpinia occidentalis
+8851,Ulmus parvifolia,Ulmus parvifolia
+8852,Ulmus procera,Ulmus minor
+8853,Urera baccifera,Urera baccifera
+8854,Urera caracasana,Urera caracasana
+8855,Urera chlorocarpa,Urera chlorocarpa
+8856,Urera glabra,Urera glabra
+8857,Urera kaalae,Urera kaalae
+8858,Urera,NA
+8859,Ungnadia speciosa,Ungnadia speciosa
+8860,Vaccinium arboreum,Vaccinium arboreum
+8861,Vangueria madagascariensis,Vangueria madagascariensis
+8862,Ulmus davidiana,Ulmus davidiana
+8863,Vavaea pauciflora,Vavaea pauciflora
+8866,Veitchia merrillii,Adonidia merrillii
+8868,Sterculia ponapensis,Sterculia ponapensis
+8869,Vernicia montana,Vernicia montana
+8870,Vernicia,NA
+8871,Vitex agnus-castus,Vitex agnus-castus
+8872,Vitex cofassus,Vitex cofassus
+8873,Vitex divaricata,Vitex divaricata
+8874,Vitex parviflora,Vitex parviflora
+8875,Vitex,NA
+8876,Vitex trifolia,Vitex trifolia
+8877,Viburnum lentago,Viburnum lentago
+8878,Viburnum prunifolium,Viburnum prunifolium
+8879,Viburnum rufidulum,Viburnum rufidulum
+8880,Viburnum sieboldii,NA
+8881,Wallenia lamarckiana,Wallenia lamarckiana
+8883,Washingtonia filifera,Washingtonia filifera
+8884,Wedelia biflora,NA
+8885,Washingtonia robusta,Washingtonia robusta
+8886,Weinmannia affinis,Weinmannia affinis
+8887,Weinmannia pinnata,Weinmannia pinnata
+8889,Wikstroemia bicornuta,Wikstroemia bicornuta
+8890,Wikstroemia furcata,Wikstroemia furcata
+8891,Wikstroemia monticola,Wikstroemia monticola
+8892,Wikstroemia oahuensis,Wikstroemia oahuensis
+8895,Wikstroemia phillyreifolia,Wikstroemia phillyreifolia
+8896,Wikstroemia pulcherrima,Wikstroemia pulcherrima
+8897,Wikstroemia sandwicensis,Wikstroemia sandwicensis
+8898,Wikstroemia skottsbergiana,Wikstroemia skottsbergiana
+8899,Wikstroemia,NA
+8900,Wikstroemia villosa,Wikstroemia villosa
+8901,Ximenia americana,Ximenia americana
+8902,Xylosma congestum,Croton congestus
+8903,Xylocarpus granatum,Xylocarpus granatum
+8904,Xylocarpus moluccensis,Xylocarpus moluccensis
+8905,Xylocarpus,NA
+8906,Xylosma buxifolia,Xylosma buxifolia
+8907,Xylosma crenata,Xylosma crenata
+8908,Xylosma hawaiiensis,Xylosma hawaiensis
+8909,Xylosma nelsonii,NA
+8910,Xylosma pachyphylla,Xylosma pachyphylla
+8911,Xylosma samoensis,NA
+8912,Xylosma schaefferioides,Xylosma schaefferioides
+8913,Xylosma schwaneckeana,Xylosma schwaneckeana
+8914,Xylococcus bicolor,NA
+8915,Xylosma,NA
+8916,Yucca aloifolia,Yucca aloifolia
+8917,Yucca faxoniana,Yucca faxoniana
+8918,Yucca gloriosa,Yucca gloriosa
+8919,Yucca guatemalensis,Yucca gigantea
+8923,Zanthoxylum bifoliolatum,Zanthoxylum bifoliolatum
+8924,Zanthoxylum caribaeum,Zanthoxylum caribaeum
+8925,Zanthoxylum dipetalum,Zanthoxylum dipetalum
+8928,Zanthoxylum flavum,Zanthoxylum flavum
+8929,Zanthoxylum hawaiiense,Zanthoxylum hawaiiense
+8930,Zanthoxylum kauaense,Zanthoxylum kauaense
+8931,Zanthoxylum martinicense,Zanthoxylum martinicense
+8932,Zanthoxylum monophyllum,Zanthoxylum schreberi
+8933,Zanthoxylum oahuense,Zanthoxylum oahuense
+8934,Zanthoxylum punctatum,Zanthoxylum punctatum
+8935,Zanthoxylum spinifex,Zanthoxylum tragodes
+8936,Zanthoxylum,NA
+8937,Zanthoxylum thomasianum,Zanthoxylum thomasianum
+8938,Zapoteca portoricensis,NA
+8939,Ziziphus mauritiana,Ziziphus jujuba
+8940,Ziziphus reticulata,Sarcomphalus reticulatus
+8941,Ziziphus rignonii,Sarcomphalus domingensis
+8942,Zanthoxylum americanum,Zanthoxylum americanum
+8943,Ziziphus taylorii,Ziziphus taylorii
+8944,Zanthoxylum clava-herculis,Zanthoxylum clava-herculis
+8947,Ziziphus zizyphus,Ziziphus jujuba

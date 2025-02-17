@@ -1,0 +1,10 @@
+AGENTCD,damage
+0,none
+10,insect
+20,disease
+30,fire
+40,animal
+50,weather
+60,vegetation
+70,unknown
+80,human

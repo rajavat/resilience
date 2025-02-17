@@ -1,0 +1,5 @@
+STATUSCD,status
+0,missing
+1,live
+2,dead
+3,removed
