@@ -1,0 +1,145 @@
+Ranger result
+
+Call:
+ ranger(formula = sdResidEVI ~ meanEVI * (FDis + FDiv + FEve) *      (speciesRichness + shannonDiversity + tempAnnual + tempRange +          precipitation + aridity + soilpH + soilSOC + soilClay +          topoElevation + topoSlope + bedrockDepth + cloudCover +          windSpeed + soilMoisture + forestRegrowth + forestAge +          burntAreas + rootMass + humanFootprint + forestIntegrity +          intactLandscapes + growingSeason) + biome + managed,      data = train, importance = "permutation", write.forest = TRUE,      seed = 123) 
+
+Type:                             Regression 
+Number of trees:                  500 
+Sample size:                      43280 
+Number of independent variables:  193 
+Mtry:                             13 
+Target node size:                 5 
+Variable importance mode:         permutation 
+Splitrule:                        variance 
+OOB prediction error (MSE):       10733.41 
+R squared (OOB):                  0.4816428 
+                      meanEVI                          FDis                          FDiv 
+                  2707.437582                    123.819510                     98.188904 
+                         FEve               speciesRichness              shannonDiversity 
+                    97.978587                     53.526951                    184.053947 
+                   tempAnnual                     tempRange                 precipitation 
+                  1283.730295                    704.211214                    613.434106 
+                      aridity                        soilpH                       soilSOC 
+                  1412.786891                    957.061406                    375.560152 
+                     soilClay                 topoElevation                     topoSlope 
+                   315.155787                   3231.546994                    785.315117 
+                 bedrockDepth                    cloudCover                     windSpeed 
+                   175.641736                   1403.764535                    272.280441 
+                 soilMoisture                forestRegrowth                     forestAge 
+                   680.495212                   4547.434158                    948.773199 
+                   burntAreas                      rootMass                humanFootprint 
+                    56.351520                    333.055309                    139.340069 
+              forestIntegrity              intactLandscapes                 growingSeason 
+                  1521.660737                     22.189439                   1058.818615 
+                        biome                       managed                  meanEVI:FDis 
+                   273.901889                      1.116876                    452.994753 
+                 meanEVI:FDiv                  meanEVI:FEve       meanEVI:speciesRichness 
+                   901.459803                    167.209880                    712.653675 
+     meanEVI:shannonDiversity            meanEVI:tempAnnual             meanEVI:tempRange 
+                   317.200377                   1539.039716                   1502.368265 
+        meanEVI:precipitation               meanEVI:aridity                meanEVI:soilpH 
+                  1822.378876                   1746.876946                   1417.548195 
+              meanEVI:soilSOC              meanEVI:soilClay         meanEVI:topoElevation 
+                   896.661789                    585.221721                   1973.305810 
+            meanEVI:topoSlope          meanEVI:bedrockDepth            meanEVI:cloudCover 
+                   576.244237                   2773.308733                    470.472204 
+            meanEVI:windSpeed          meanEVI:soilMoisture        meanEVI:forestRegrowth 
+                  1554.983278                    418.479525                   3253.699708 
+            meanEVI:forestAge            meanEVI:burntAreas              meanEVI:rootMass 
+                   440.595463                     52.607614                    977.341415 
+       meanEVI:humanFootprint       meanEVI:forestIntegrity      meanEVI:intactLandscapes 
+                   285.549555                   1877.325562                     21.439238 
+        meanEVI:growingSeason          FDis:speciesRichness         FDis:shannonDiversity 
+                  3432.335547                    164.844394                    161.329331 
+              FDis:tempAnnual                FDis:tempRange            FDis:precipitation 
+                   416.539622                    218.827496                    267.394788 
+                 FDis:aridity                   FDis:soilpH                  FDis:soilSOC 
+                   353.309772                    160.474064                    205.383519 
+                FDis:soilClay            FDis:topoElevation                FDis:topoSlope 
+                   256.512448                   1355.892302                    456.662030 
+            FDis:bedrockDepth               FDis:cloudCover                FDis:windSpeed 
+                   181.231371                    254.329088                    179.702327 
+            FDis:soilMoisture           FDis:forestRegrowth                FDis:forestAge 
+                   210.220174                    158.994363                    228.015210 
+              FDis:burntAreas                 FDis:rootMass           FDis:humanFootprint 
+                    52.109747                    123.523767                    162.777523 
+         FDis:forestIntegrity         FDis:intactLandscapes            FDis:growingSeason 
+                  1387.624897                     22.731061                    282.717745 
+         FDiv:speciesRichness         FDiv:shannonDiversity               FDiv:tempAnnual 
+                   116.981576                    130.095283                    677.017957 
+               FDiv:tempRange            FDiv:precipitation                  FDiv:aridity 
+                   174.576161                    371.366175                    623.124587 
+                  FDiv:soilpH                  FDiv:soilSOC                 FDiv:soilClay 
+                   284.177471                    325.115425                    299.631201 
+           FDiv:topoElevation                FDiv:topoSlope             FDiv:bedrockDepth 
+                  2335.492485                    934.843261                    105.406197 
+              FDiv:cloudCover                FDiv:windSpeed             FDiv:soilMoisture 
+                   936.998415                    140.192620                    470.537276 
+          FDiv:forestRegrowth                FDiv:forestAge               FDiv:burntAreas 
+                   124.604201                    498.487939                     62.389749 
+                FDiv:rootMass           FDiv:humanFootprint          FDiv:forestIntegrity 
+                   140.000213                    163.064138                   1555.362979 
+        FDiv:intactLandscapes            FDiv:growingSeason          FEve:speciesRichness 
+                    22.238220                    347.506803                    152.077356 
+        FEve:shannonDiversity               FEve:tempAnnual                FEve:tempRange 
+                   126.120557                    409.844563                    125.681175 
+           FEve:precipitation                  FEve:aridity                   FEve:soilpH 
+                   223.807873                    257.432637                    162.453105 
+                 FEve:soilSOC                 FEve:soilClay            FEve:topoElevation 
+                   286.201737                    234.623151                   1676.146341 
+               FEve:topoSlope             FEve:bedrockDepth               FEve:cloudCover 
+                   629.102255                    131.953956                    547.365325 
+               FEve:windSpeed             FEve:soilMoisture           FEve:forestRegrowth 
+                   157.006549                    275.903418                    109.815292 
+               FEve:forestAge               FEve:burntAreas                 FEve:rootMass 
+                   364.221058                     43.370948                    104.490798 
+          FEve:humanFootprint          FEve:forestIntegrity         FEve:intactLandscapes 
+                   139.086275                   1057.723703                     22.019538 
+           FEve:growingSeason  meanEVI:FDis:speciesRichness meanEVI:FDis:shannonDiversity 
+                   245.955151                    233.346573                    188.989116 
+      meanEVI:FDis:tempAnnual        meanEVI:FDis:tempRange    meanEVI:FDis:precipitation 
+                   534.545005                    384.760032                    605.848517 
+         meanEVI:FDis:aridity           meanEVI:FDis:soilpH          meanEVI:FDis:soilSOC 
+                   922.092312                    204.859415                    333.585245 
+        meanEVI:FDis:soilClay    meanEVI:FDis:topoElevation        meanEVI:FDis:topoSlope 
+                   309.331873                    887.205012                    439.245081 
+    meanEVI:FDis:bedrockDepth       meanEVI:FDis:cloudCover        meanEVI:FDis:windSpeed 
+                   297.934341                    155.902707                    361.885075 
+    meanEVI:FDis:soilMoisture   meanEVI:FDis:forestRegrowth        meanEVI:FDis:forestAge 
+                   246.499972                    398.347173                    218.170004 
+      meanEVI:FDis:burntAreas         meanEVI:FDis:rootMass   meanEVI:FDis:humanFootprint 
+                    48.065834                    195.546196                    238.718829 
+ meanEVI:FDis:forestIntegrity meanEVI:FDis:intactLandscapes    meanEVI:FDis:growingSeason 
+                  1289.121220                     21.943863                    639.735309 
+ meanEVI:FDiv:speciesRichness meanEVI:FDiv:shannonDiversity       meanEVI:FDiv:tempAnnual 
+                   451.587207                    305.710971                    878.061369 
+       meanEVI:FDiv:tempRange    meanEVI:FDiv:precipitation          meanEVI:FDiv:aridity 
+                   590.336680                   1140.031807                   1305.796297 
+          meanEVI:FDiv:soilpH          meanEVI:FDiv:soilSOC         meanEVI:FDiv:soilClay 
+                   368.592446                    516.958323                    441.417528 
+   meanEVI:FDiv:topoElevation        meanEVI:FDiv:topoSlope     meanEVI:FDiv:bedrockDepth 
+                  1713.653188                    521.051187                    479.515426 
+      meanEVI:FDiv:cloudCover        meanEVI:FDiv:windSpeed     meanEVI:FDiv:soilMoisture 
+                   371.962055                    524.487945                    317.921079 
+  meanEVI:FDiv:forestRegrowth        meanEVI:FDiv:forestAge       meanEVI:FDiv:burntAreas 
+                   849.744982                    266.433812                     52.269418 
+        meanEVI:FDiv:rootMass   meanEVI:FDiv:humanFootprint  meanEVI:FDiv:forestIntegrity 
+                   375.392414                    280.962293                   1760.715526 
+meanEVI:FDiv:intactLandscapes    meanEVI:FDiv:growingSeason  meanEVI:FEve:speciesRichness 
+                    14.636265                   1599.790006                    262.579174 
+meanEVI:FEve:shannonDiversity       meanEVI:FEve:tempAnnual        meanEVI:FEve:tempRange 
+                   232.360778                    527.123553                    228.998588 
+   meanEVI:FEve:precipitation          meanEVI:FEve:aridity           meanEVI:FEve:soilpH 
+                   280.462969                    446.461267                    178.121686 
+         meanEVI:FEve:soilSOC         meanEVI:FEve:soilClay    meanEVI:FEve:topoElevation 
+                   316.781486                    303.556816                   1379.393507 
+       meanEVI:FEve:topoSlope     meanEVI:FEve:bedrockDepth       meanEVI:FEve:cloudCover 
+                   478.859814                    202.865953                    182.439157 
+       meanEVI:FEve:windSpeed     meanEVI:FEve:soilMoisture   meanEVI:FEve:forestRegrowth 
+                   229.912122                    186.301182                    191.053181 
+       meanEVI:FEve:forestAge       meanEVI:FEve:burntAreas         meanEVI:FEve:rootMass 
+                   184.027577                     42.823718                    164.863819 
+  meanEVI:FEve:humanFootprint  meanEVI:FEve:forestIntegrity meanEVI:FEve:intactLandscapes 
+                   182.404858                   1171.385862                     13.467007 
+   meanEVI:FEve:growingSeason 
+                   453.740752 

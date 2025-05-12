@@ -1,0 +1,118 @@
+---
+title: "R Notebook"
+output: pdf_document
+---
+```{r}
+library(tidyverse)
+library(arrow)
+library(furrr)
+library(future)
+library(ggplot2)
+library(tidyverse)
+library(viridis)
+library(FD)
+library(fundiversity)
+library(hypervolume)
+library(patchwork)
+
+options(future.globals.maxSize = 1024^3)
+```
+
+```{r calc FD indices w dbFD package}
+FDcalcs <- dbFD(
+  x = FDm$traitMatrix,       
+  a = FDm$abundMatrix,
+  corr = "lingoes",       # correction method for negative eigenvalues
+  stand.x = TRUE,         # standardize traits before analysis
+  calc.FRic = TRUE,       # calculate Functional Richness
+  calc.FDiv = TRUE,       # calculate Functional Divergence
+  calc.CWM = TRUE,        # calculate Community-Weighted Means
+  calc.FGR = FALSE        # calculate Functional Group Richness
+)
+```
+
+```{r}
+# create dataframe with FD indices
+FDf <- tibble(
+  PID = rownames(FDm$abundMatrix)) %>%
+  mutate(
+    FRic = FDcalcs$FRic,
+    FEve = FDcalcs$FEve,
+    FDiv = FDcalcs$FDiv,
+    FDis = FDcalcs$FDis,
+    RaoQ = FDcalcs$RaoQ) %>%
+  left_join( # join w CWM data
+    tibble(
+      PID = rownames(FDcalcs$CWM),
+      as_tibble(FDcalcs$CWM)), 
+    by = "PID") %>%
+drop_na()
+
+write.csv(FDf, "FD_vals.csv", row.names = TRUE)
+```
+
+```{r prep data for fundiversity use}
+# check for non-numeric values
+any(!sapply(FDm$abundMatrix, is.numeric))
+any(!sapply(FDm$traitMatrix, is.numeric))
+
+# check for NAs
+anyNA(FDm$abundMatrix)
+anyNA(FDm$traitMatrix)
+
+# FDm$abundMatrix[is.na(FDm$abundMatrix)] <- 0
+
+FDm$abundMatrix <- as.matrix(FDm$abundMatrix)
+FDm$traitMatrix <- as.matrix(FDm$traitMatrix)
+
+dim(FDm$abundMatrix)
+dim(FDm$traitMatrix)
+
+all(colnames(FDm$abundMatrix) %in% rownames(FDm$traitMatrix))
+```
+
+```{r}
+FDis = fd_fdis(traits = FDm$traitMatrix, sp_com = FDm$abundMatrix)
+```
+
+```{r}
+# calculate FD indices with fundiversity
+FDindices <- list(
+  FDis = fd_fdis(traits = FDm$traitMatrix, sp_com = FDm$abundMatrix),
+  FDiv = fd_fdiv(traits = FDm$traitMatrix, sp_com = FDm$abundMatrix),
+  FEve = fd_feve(traits = FDm$traitMatrix, sp_com = FDm$abundMatrix),
+  FRic = fd_fric(traits = FDm$traitMatrix, sp_com = FDm$abundMatrix),
+  RaoQ = fd_raoq(traits = FDm$traitMatrix, sp_com = FDm$abundMatrix)
+)
+```
+
+
+```{r}
+FDvals <- read.csv("data/trait/FD_vals.csv")
+```
+
+
+```{r hypervolume stuff}
+# ensure species names match between matrices
+common_species <- intersect(colnames(FDm$abundMatrix), 
+                            rownames(FDm$traitMatrix))
+Fabundance <- FDm$abundMatrix[, common_species]
+Ftrait <- FDm$traitMatrix[common_species, ]
+community <- as.matrix(Ftrait)
+
+hv <- hypervolume(
+  data = community,
+  method = "gaussian", 
+  kde.bandwidth = estimate_bandwidth(community, 
+                                     method = "silverman"),
+  verbose = FALSE
+)
+```
+
+
+```{r}
+data(traits_birds)
+data(site_sp_birds)
+fd_fdis(traits_birds, site_sp_birds)
+```
+
